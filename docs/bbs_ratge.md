@@ -1,5 +1,7 @@
 **Goal: Castle of Dreams 100% in Ven's Story**
 
+This run was done on Crit/Level 1.
+
 Vod of run: [https://www.youtube.com/live/L4u4cb4QdOA?si=OV0HPJUpn2NN4si2&t=2730](https://www.youtube.com/live/L4u4cb4QdOA?si=OV0HPJUpn2NN4si2&t=2730)
 
 **Before Run Begins**
