@@ -1,6 +1,6 @@
-**Goal**
+**Goal: Castle of Dreams 100% in Ven's Story**
 
-- Castle of Dreams 100% in Ven's Story
+Vod of run: [https://www.youtube.com/live/L4u4cb4QdOA?si=OV0HPJUpn2NN4si2&t=2730](https://www.youtube.com/live/L4u4cb4QdOA?si=OV0HPJUpn2NN4si2&t=2730)
 
 **Before Run Begins**
 
@@ -10,19 +10,20 @@
 
 # Landing
 
-- Turn left
-- _Grab chest in mouse hole_
-- Go to Cinderella's room
+Turn left
+_Grab chest in mouse hole_
+
+Go to Cinderella's room
 
 # Cinderella's Room
 
-Turn around
+Turn bottom rightish
 _Grab map chest_
 
 Jump on chair to table
 _Grab Sticker_
 
-Slide dash to table
+Slide dash to table with candle
 _Grab Magic Recipe chest_
 
 # Mouse Hole
@@ -58,6 +59,7 @@ _Grab White Sash_
 
 Slide dash to green table
 _Grab Button_
+
 Go through mouse hole
 
 # Mouse Hole
@@ -74,10 +76,10 @@ _Drop down and time slide dash to get Sticker_
 
 Go back through mouse hole to Wardrobe Room
 
-# D Link Grind
+# D-Link Grind
 
 Slide dash over to couch
-Grab White Lace
+_Grab White Lace_
 
 Level up Terra's d link (pick up 2 level up crystals)
 
@@ -98,7 +100,7 @@ _Pick up Pink Fabric_
 
 # Cinderella's Room
 
-Slide dash to the right to bed
+Turn left. Slide dash to table on right side of bed
 _Grab Stun Edge chest_
 
 **Menu**
@@ -116,3 +118,5 @@ Go through mouse hole, slide dash to bottom hole to fight Lucifer
 - If your HP is past the 3rd strain of Ven's hair, hit him twice, get hit again, then spam Sonic Blade + commands and Finish
 - If your HP is past the 2nd strain of Ven's hair, hit him twice and immediately spam Sonic Blade + commands and Finish
 - Stun Edge, Binding Strike, Quick Blitz, Finish, Sonic Blade
+
+Time ends when confirming 100% Castle of Dreams on World Map
