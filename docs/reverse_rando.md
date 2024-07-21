@@ -45,7 +45,7 @@ This mod allows you to have a completely new experience in the Kingdom Hearts 2 
 # Setup (PC only)
 
 1. In the OpenKH Mod Manager, Install a new mod
-2. In the “Add a new mod from Github” section, type
+2. In the “Add a new mod from Github” section, type or copy/paste
    ```
    KH2FM-Mods-Num/Goa-Reverse-ROM
    ```
@@ -70,6 +70,7 @@ This mod allows you to have a completely new experience in the Kingdom Hearts 2 
 - **Last Story Check Objectives** do not work as intended
 - **Spike Hit List Objectives** Yeet the Bear goal is not adjusted for Reverse Rando
 - The **1 Hour Companion** mod does not work with Reverse Rando
+- **Enemy Rando** may result in impossible situations
 - (**Important Check weights** need to be tested but they seem to work)
 
 ---
@@ -99,13 +100,13 @@ Generally, the visits for each world are in reverse order, i.e. 2nd visit before
 - AS Marluxia’s portal is in the Hall of the Cornerstone in Disney Castle. Data Marluxia’s portal is in the same spot as regular rando.
 - Data Lexaeus’s portal is still in the Peddler’s Shop but he’s poor PayPayLaugh
 
-Some rooms are inaccessible during specific visits. Check the Missable Chests section for treasures that can be missed as a result of this.
+Some rooms are inaccessible during specific visits. Check the [Missable Chests](#missable-chests) section for treasures that can be missed as a result of this.
 
 <!-- TOC --><a name="battle-levels"></a>
 
 ## Battle Levels
 
-Battle levels are adjusted accordingly for each visit. Adjustments have also been made to the Absent Silhouettes in between visits as well as Cavern of Remembrance and Transport to Remembrance. Absent Silhouettes battle levels will be in between the visits for their respective worlds. CoR and Transport battle levels are between HB1 and HB2’s battle levels.
+Battle levels are swapped between the visits. Adjustments have also been made to the Absent Silhouettes in between visits as well as Cavern of Remembrance and Transport to Remembrance. Absent Silhouettes battle levels will be in between the visits for their respective worlds. CoR and Transport battle levels are between HB1 and HB2’s battle levels.
 
 <!-- TOC --><a name="world-progression"></a>
 
@@ -122,6 +123,7 @@ Battle levels are adjusted accordingly for each visit. Adjustments have also bee
 **Agrabah**
 
 - AG2 > AS Lexaeus > AG1 > Data Lexaeus
+- AS Lexaeus is available after AG2 without a visit unlock (if enabled)
 
 **Beast’s Castle**
 
@@ -130,14 +132,17 @@ Battle levels are adjusted accordingly for each visit. Adjustments have also bee
 **Disney Castle**
 
 - Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
+- AS Marluxia is available after TR without a visit unlock (if enabled)
 
 **Halloween Town**
 
 - HT2 > AS Vexen > HT1 > Data Vexen
+- AS Vexen is available after HT2 without a visit unlock (if enabled)
 
 **Hollow Bastion**
 
-- HB2 > CoR > Transport > Sephiroth > HB1 > Data Demyx
+- HB2 > CoR > Transport > Mushroom Check (does not require Proof of Peace) and Sephiroth > HB1 > Data Demyx
+- CoR is inaccessible without a visit unlock (if enabled)
 
 **Land of Dragons**
 
@@ -146,6 +151,7 @@ Battle levels are adjusted accordingly for each visit. Adjustments have also bee
 **Olympus Coliseum**
 
 - OC2 > AS Zexion > OC1 > Data Zexion
+- AS Zexion is available after OC2 without a visit unlock (if enabled)
 
 **Port Royal**
 
@@ -158,6 +164,7 @@ Battle levels are adjusted accordingly for each visit. Adjustments have also bee
 **Space Paranoids**
 
 - SP2 > AS Larxene > SP1 > Data Larxene
+- AS Larxene is available after SP2 without a visit unlock (if enabled)
 
 **STT**
 
@@ -199,6 +206,7 @@ Battle levels are adjusted accordingly for each visit. Adjustments have also bee
 
 # Tips and Tricks
 
+- Skateboards are available for movement in various worlds
 - During medallion collection in PR2, go to Ship Graveyard first and get two medallions there. Then go to Isla Del Muerta to get the last medallion.
 - After completing HB2 and completing the 1st CoR fight, the Transport to Remembrance shortcut in the Restoration Site is open. You need to do the 2nd CoR fight to complete Transport.
 - After beating Transport, you can leave and enter HB’s portal again to warp to Crystal Fissure.
@@ -277,7 +285,9 @@ Shotgun Tutorial by Metthaios:
 ## Agrabah
 
 **General:**
-AG2 > AS Lexaeus > AG1 > Data Lexaeus
+
+- AG2 > AS Lexaeus > AG1 > Data Lexaeus
+- AS Lexaeus is available after AG2 without a visit unlock (if enabled)
 
 **Inaccessible rooms during AG2 and AS Lexaeus:**
 
@@ -316,7 +326,9 @@ BC2 > BC1 > Data Xaldin
 ## Disney Castle
 
 **General:**
-Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
+
+- Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
+- AS Marluxia is available after TR without a visit unlock (if enabled)
 
 **Inaccessible rooms during Timeless River and AS Marluxia:**
 
@@ -325,6 +337,9 @@ Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
 **Inaccessible rooms during Disney Castle:**
 
 - All of TR’s rooms
+
+**Note:**
+Wisdom Form check requires finishing the entire world through Disney Castle
 
 **!Missable Chests!**
 
@@ -335,7 +350,9 @@ Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
 ## Halloween Town
 
 **General:**
-HT2 > AS Vexen > HT1 > Data Vexen
+
+- HT2 > AS Vexen > HT1 > Data Vexen
+- AS Vexen is available after HT2 without a visit unlock (if enabled)
 
 **Inaccessible rooms during HT2 and AS Vexen:**
 
@@ -350,7 +367,9 @@ HT2 > AS Vexen > HT1 > Data Vexen
 ## Hollow Bastion
 
 **General:**
-HB2 > CoR > Transport > Sephiroth > HB1 > Data Demyx
+
+- HB2 > CoR > Transport > Mushroom Check (does not require Proof of Peace) and Sephiroth > HB1 > Data Demyx
+- CoR is inaccessible without a visit unlock (if enabled)
 
 **Inaccessible rooms during HB2:**
 
@@ -397,7 +416,9 @@ LOD2 > LOD1 > Data Xigbar
 ## Olympus Coliseum
 
 **General:**
-OC2 > AS Zexion > OC1 > Data Zexion
+
+- OC2 > AS Zexion > OC1 > Data Zexion
+- AS Zexion is available after OC2 without a visit unlock (if enabled)
 
 **Inaccessible rooms during OC2 and AS Zexion:**
 
@@ -407,6 +428,12 @@ OC2 > AS Zexion > OC1 > Data Zexion
 - The Lock
 
 **Note:** During OC2, cups are unlocked if requirements are met.
+
+- **Pain and Panic Cup** requires DC to be completed
+- **Cerberus Cup** requires AS Vexen, AS Lexaeus, and Groundshaker to be defeated
+- **Titan Cup** requires beating Hades in OC2
+- **Goddess of Fate Cup** requires TWTNW to be completed
+- The above aren't required if **Hades Cup Trophy** is found
 
 **!Missable Chests!**
 
@@ -456,7 +483,9 @@ PL2 > PL1 > Data Saix
 ## Space Paranoids
 
 **General:**
-SP2 > AS Larxene > SP1 > Data Larxene
+
+- SP2 > AS Larxene > SP1 > Data Larxene
+- AS Larxene is available after SP2 without a visit unlock (if enabled)
 
 **!Missable Chests!**
 
@@ -485,7 +514,7 @@ Reversed days
 
 - Dive to the Heart and Twilight Thorn
 
-**Day 2 and Day 1 (Combined)**
+**Day 1 and Day 2 (Combined)**
 
 - Seifer and Job
 
