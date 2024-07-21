@@ -1,10 +1,44 @@
 # KH2 Reverse Rando
 
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Overview](#overview)
+- [Setup (PC only)](#setup-pc-only)
+  - [Genning a seed (In the 3.1.0 beta generator)](#genning-a-seed-in-the-310-beta-generator)
+- [General World Progression](#general-world-progression)
+  - [Battle Levels](#battle-levels)
+  - [World Progression](#world-progression)
+- [Missable Chests](#missable-chests)
+- [Tips and Tricks](#tips-and-tricks)
+  - [Resources](#resources)
+- [In depth guide to each world:](#in-depth-guide-to-each-world)
+  - [100 Acre Wood](#100-acre-wood)
+  - [Atlantica](#atlantica)
+  - [Agrabah](#agrabah)
+  - [Beast’s Castle](#beasts-castle)
+  - [Disney Castle](#disney-castle)
+  - [Halloween Town](#halloween-town)
+  - [Hollow Bastion](#hollow-bastion)
+  - [Land of Dragons](#land-of-dragons)
+  - [Olympus Coliseum](#olympus-coliseum)
+  - [Port Royal](#port-royal)
+  - [Pride Lands](#pride-lands)
+  - [Space Paranoids](#space-paranoids)
+  - [STT](#stt)
+  - [Twilight Town](#twilight-town)
+  - [TWTNW](#twtnw)
+
+<!-- TOC end -->
+
+<!-- TOC --><a name="overview"></a>
+
 # Overview
 
 Reverse Rando is a mod that reverses the visits for each world in the game. For example, you will need to complete Land of Dragons 2nd visit (beating Storm Rider) before you can go to Land of Dragons 1st visit (completing missions, mountain climb, Shan Yu, etc.).
 
 This mod allows you to have a completely new experience in the Kingdom Hearts 2 randomizer.
+
+<!-- TOC --><a name="setup-pc-only"></a>
 
 # Setup (PC only)
 
@@ -12,6 +46,8 @@ This mod allows you to have a completely new experience in the Kingdom Hearts 2 
 2. In the “Add a new mod from Github” section, type `KH2FM-Mods-Num/Goa-Reverse-ROM`
 3. Enable the mod by checking the box next to the mod in the list
 4. Make sure the regular GoA mod is not enabled when you run the game by unchecking the box next to the GoA ROM Edition mod.
+
+<!-- TOC --><a name="genning-a-seed-in-the-310-beta-generator"></a>
 
 ## Genning a seed (In the 3.1.0 beta generator)
 
@@ -25,6 +61,8 @@ Known issues:
 - **Last Story Check Objectives** do not work as intended
 - The **1 Hour Companion** mod does not work with Reverse Rando
 - (IC weights need to be tested but they seem to work)
+
+<!-- TOC --><a name="general-world-progression"></a>
 
 # General World Progression
 
@@ -51,9 +89,13 @@ Generally, the visits for each world are in reverse order, i.e. 2nd visit before
 
 Some rooms are inaccessible during specific visits. Check the Missable Chests section for treasures that can be missed as a result of this.
 
+<!-- TOC --><a name="battle-levels"></a>
+
 ## Battle Levels
 
 Battle levels are adjusted accordingly for each visit. Adjustments have also been made to the Absent Silhouettes in between visits as well as Cavern of Remembrance and Transport to Remembrance. Absent Silhouettes battle levels will be in between the visits for their respective worlds. CoR and Transport battle levels are between HB1 and HB2’s battle levels.
+
+<!-- TOC --><a name="world-progression"></a>
 
 ## World Progression
 
@@ -103,6 +145,8 @@ TT3 > TT2 > TT1 > Data Axel
 The world is not reversed. The bosses are reversed.
 Xemnas > Saix > Luxord > Xigbar > Roxas
 
+<!-- TOC --><a name="missable-chests"></a>
+
 # Missable Chests
 
 **Missable chests (gone when unlocking next visit):**
@@ -120,18 +164,26 @@ Xemnas > Saix > Luxord > Xigbar > Roxas
 - SP: Central Computer Mesa
 - STT: Mansion
 
+<!-- TOC --><a name="tips-and-tricks"></a>
+
 # Tips and Tricks
 
 - During medallion collection in PR2, go to Ship Graveyard first and get two medallions there. Then go to Isla Del Muerta to get the last medallion.
 - After completing HB2 and completing the 1st CoR fight, the Transport to Remembrance shortcut in the Restoration Site is open. You need to do the 2nd CoR fight to complete Transport.
 - After beating Transport, you can leave and enter HB’s portal again to warp to Crystal Fissure.
 
+<!-- TOC --><a name="resources"></a>
+
 ## Resources
 
 Shotgun Tutorial by Metthaios:
 **[https://www.youtube.com/live/eiUBPDPpjaI](https://www.youtube.com/live/eiUBPDPpjaI)**
 
+<!-- TOC --><a name="in-depth-guide-to-each-world"></a>
+
 # In depth guide to each world:
+
+<!-- TOC --><a name="100-acre-wood"></a>
 
 ## 100 Acre Wood
 
@@ -153,6 +205,8 @@ Shotgun Tutorial by Metthaios:
 
 - All chests not in Pooh’s House
 
+<!-- TOC --><a name="atlantica"></a>
+
 ## Atlantica
 
 **A New Day is Dawning**
@@ -166,6 +220,8 @@ Shotgun Tutorial by Metthaios:
 - Magnera required
   **Tutorial + Swim This Way**
 - Thundaga required
+
+<!-- TOC --><a name="agrabah"></a>
 
 ## Agrabah
 
@@ -183,6 +239,8 @@ AG2 > AS Lexaeus > AG1 > Data Lexaeus
 !Missable Chests!
 
 - Ruined Chamber
+
+<!-- TOC --><a name="beasts-castle"></a>
 
 ## Beast’s Castle
 
@@ -202,6 +260,8 @@ BC2 > BC1 > Data Xaldin
 
 - None
 
+<!-- TOC --><a name="disney-castle"></a>
+
 ## Disney Castle
 
 **General:**
@@ -219,6 +279,8 @@ Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
 
 - None
 
+<!-- TOC --><a name="halloween-town"></a>
+
 ## Halloween Town
 
 **General:**
@@ -231,6 +293,8 @@ HT2 > AS Vexen > HT1 > Data Vexen
 !Missable Chests!
 
 - None
+
+<!-- TOC --><a name="hollow-bastion"></a>
 
 ## Hollow Bastion
 
@@ -260,6 +324,8 @@ HB2 > CoR > Transport > Sephiroth > HB1 > Data Demyx
 
 - All chests not in Borough (lost after obtaining Fenrir check) (technically mushroom popup too)
 
+<!-- TOC --><a name="land-of-dragons"></a>
+
 ## Land of Dragons
 
 **General:**
@@ -274,6 +340,8 @@ LOD2 > LOD1 > Data Xigbar
 !Missable Chests!
 
 - Throne Room (get one more chance by doing Shan Yu skip)
+
+<!-- TOC --><a name="olympus-coliseum"></a>
 
 ## Olympus Coliseum
 
@@ -292,6 +360,8 @@ OC2 > AS Zexion > OC1 > Data Zexion
 !Missable Chests!
 
 - None
+
+<!-- TOC --><a name="port-royal"></a>
 
 ## Port Royal
 
@@ -314,6 +384,8 @@ During medallion collection, go to Ship Graveyard first and get two medallions t
 
 - Ship Graveyard
 
+<!-- TOC --><a name="pride-lands"></a>
+
 ## Pride Lands
 
 **General:**
@@ -328,6 +400,8 @@ PL2 > PL1 > Data Saix
 
 - None
 
+<!-- TOC --><a name="space-paranoids"></a>
+
 ## Space Paranoids
 
 **General:**
@@ -336,6 +410,8 @@ SP2 > AS Larxene > SP1 > Data Larxene
 !Missable Chests!
 
 - None
+
+<!-- TOC --><a name="stt"></a>
 
 ## STT
 
@@ -385,6 +461,8 @@ Reversed days
 
 - None
 
+<!-- TOC --><a name="twilight-town"></a>
+
 ## Twilight Town
 
 **General:**
@@ -415,6 +493,8 @@ TT3 > TT2 > TT1 > Data Axel
 - Sunset Terrace
 - Underground
 - All of the above become available again after beating TT1
+
+<!-- TOC --><a name="twtnw"></a>
 
 ## TWTNW
 
