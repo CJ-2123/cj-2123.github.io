@@ -52,7 +52,7 @@ This mod allows you to have a completely new experience in the Kingdom Hearts 2 
 3. Enable the mod by checking the box next to the mod in the list
 4. Make sure the regular GoA mod is not enabled when you run the game by unchecking the box next to the GoA ROM Edition mod.
 
-![Alt text](/img/load_order.jpg "a title")
+![Load Order](/img/load_order.jpg "RR Load Order")
 
 <!-- TOC --><a name="genning-a-seed-in-the-310-beta-generator"></a>
 
@@ -62,9 +62,11 @@ This mod allows you to have a completely new experience in the Kingdom Hearts 2 
 2. Under the “Where Items Can Go” section, change the “Softlock Prevention” option to “Reverse Rando”.
 3. All other settings can be changed to whatever you want.
 
+![Generator](/img/reverse-rando.png "RR Generator")
+
 **Known issues:**
 
-- **Keyblades Unlock Chests** does not work with Reverse Rando
+- **Keyblades Unlock Chests** does not work logically with Reverse Rando (meaning you may get softlocked)
 - **Last Story Check Objectives** do not work as intended
 - **Spike Hit List Objectives** Yeet the Bear goal is not adjusted for Reverse Rando
 - The **1 Hour Companion** mod does not work with Reverse Rando
