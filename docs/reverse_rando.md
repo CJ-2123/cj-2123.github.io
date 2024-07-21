@@ -47,6 +47,8 @@ This mod allows you to have a completely new experience in the Kingdom Hearts 2 
 3. Enable the mod by checking the box next to the mod in the list
 4. Make sure the regular GoA mod is not enabled when you run the game by unchecking the box next to the GoA ROM Edition mod.
 
+![Alt text](/img/load_order.jpg "a title")
+
 <!-- TOC --><a name="genning-a-seed-in-the-310-beta-generator"></a>
 
 ## Genning a seed (In the 3.1.0 beta generator)
