@@ -38,12 +38,17 @@ Reverse Rando is a mod that reverses the visits for each world in the game. For 
 
 This mod allows you to have a completely new experience in the Kingdom Hearts 2 randomizer.
 
+---
+
 <!-- TOC --><a name="setup-pc-only"></a>
 
 # Setup (PC only)
 
 1. In the OpenKH Mod Manager, Install a new mod
-2. In the “Add a new mod from Github” section, type `KH2FM-Mods-Num/Goa-Reverse-ROM`
+2. In the “Add a new mod from Github” section, type
+   ```
+   KH2FM-Mods-Num/Goa-Reverse-ROM
+   ```
 3. Enable the mod by checking the box next to the mod in the list
 4. Make sure the regular GoA mod is not enabled when you run the game by unchecking the box next to the GoA ROM Edition mod.
 
@@ -57,12 +62,15 @@ This mod allows you to have a completely new experience in the Kingdom Hearts 2 
 2. Under the “Where Items Can Go” section, change the “Softlock Prevention” option to “Reverse Rando”.
 3. All other settings can be changed to whatever you want.
 
-Known issues:
+**Known issues:**
 
 - **Keyblades Unlock Chests** does not work with Reverse Rando
 - **Last Story Check Objectives** do not work as intended
+- **Spike Hit List Objectives** Yeet the Bear goal is not adjusted for Reverse Rando
 - The **1 Hour Companion** mod does not work with Reverse Rando
-- (IC weights need to be tested but they seem to work)
+- (**Important Check weights** need to be tested but they seem to work)
+
+---
 
 <!-- TOC --><a name="general-world-progression"></a>
 
@@ -147,6 +155,8 @@ TT3 > TT2 > TT1 > Data Axel
 The world is not reversed. The bosses are reversed.
 Xemnas > Saix > Luxord > Xigbar > Roxas
 
+---
+
 <!-- TOC --><a name="missable-chests"></a>
 
 # Missable Chests
@@ -166,6 +176,8 @@ Xemnas > Saix > Luxord > Xigbar > Roxas
 - SP: Central Computer Mesa
 - STT: Mansion
 
+---
+
 <!-- TOC --><a name="tips-and-tricks"></a>
 
 # Tips and Tricks
@@ -180,6 +192,8 @@ Xemnas > Saix > Luxord > Xigbar > Roxas
 
 Shotgun Tutorial by Metthaios:
 **[https://www.youtube.com/live/eiUBPDPpjaI](https://www.youtube.com/live/eiUBPDPpjaI)**
+
+---
 
 <!-- TOC --><a name="in-depth-guide-to-each-world"></a>
 
@@ -203,7 +217,7 @@ Shotgun Tutorial by Metthaios:
   **Pooh’s House**
 - Requires 5 pages
 
-!Missable Chests!
+**!Missable Chests!**
 
 - All chests not in Pooh’s House
 
@@ -238,7 +252,7 @@ AG2 > AS Lexaeus > AG1 > Data Lexaeus
 
 - Ruined Chamber
 
-!Missable Chests!
+**!Missable Chests!**
 
 - Ruined Chamber
 
@@ -258,7 +272,7 @@ BC2 > BC1 > Data Xaldin
 - Dungeon
 - Secret Passage
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
 
@@ -277,7 +291,7 @@ Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
 
 - All of TR’s rooms
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
 
@@ -292,7 +306,7 @@ HT2 > AS Vexen > HT1 > Data Vexen
 
 - Dr. Finklestein’s Lab
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
 
@@ -322,7 +336,7 @@ HB2 > CoR > Transport > Sephiroth > HB1 > Data Demyx
 - After completing HB2 and completing the 1st CoR fight, the Transport to Remembrance shortcut in the Restoration Site is open. You need to do the 2nd CoR fight to complete Transport.
 - After beating Transport, you can leave and enter HB’s portal again to warp to Crystal Fissure.
 
-!Missable Chests!
+**!Missable Chests!**
 
 - All chests not in Borough (lost after obtaining Fenrir check) (technically mushroom popup too)
 
@@ -339,7 +353,7 @@ LOD2 > LOD1 > Data Xigbar
 - Bamboo Grove
 - Throne Room until story progression
 
-!Missable Chests!
+**!Missable Chests!**
 
 - Throne Room (get one more chance by doing Shan Yu skip)
 
@@ -359,7 +373,7 @@ OC2 > AS Zexion > OC1 > Data Zexion
 
 **Note:** During OC2, cups are unlocked if requirements are met.
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
 
@@ -382,7 +396,7 @@ PR2 > PR1 > Data Luxord
 **Tip:**
 During medallion collection, go to Ship Graveyard first and get two medallions there. Then go to Isla Del Muerta to get the last medallion.
 
-!Missable Chests!
+**!Missable Chests!**
 
 - Ship Graveyard
 
@@ -398,7 +412,7 @@ PL2 > PL1 > Data Saix
 - Gorge
 - Oasis
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
 
@@ -409,7 +423,7 @@ PL2 > PL1 > Data Saix
 **General:**
 SP2 > AS Larxene > SP1 > Data Larxene
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
 
@@ -459,7 +473,7 @@ Reversed days
 
 - Everything not during the story
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
 
@@ -489,7 +503,7 @@ TT3 > TT2 > TT1 > Data Axel
 - Sunset Terrace
 - All rooms in mansion
 
-!Missable Chests!
+**!Missable Chests!**
 
 - Mansion
 - Sunset Terrace
@@ -506,6 +520,6 @@ Xemnas > Saix > Luxord > Xigbar > Roxas
 
 For example, when you walk into Roxas’s arena, you will fight Xemnas in the Xemnas arena. When you walk into Xigbar’s arena, you will fight Saix in the Saix arena, etc.
 
-!Missable Chests!
+**!Missable Chests!**
 
 - None
