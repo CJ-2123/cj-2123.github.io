@@ -112,50 +112,65 @@ Battle levels are adjusted accordingly for each visit. Adjustments have also bee
 ## World Progression
 
 **100 Acre Wood**
-Starry Hill > Spooky Cave > Kanga’s House > Rabbit’s House > Piglet’s House > Pooh’s House
+
+- Starry Hill > Spooky Cave > Kanga’s House > Rabbit’s House > Piglet’s House > Pooh’s House
 
 **Atlantica**
-A New Day is Dawning > Ursula’s Revenge > Under the Sea > Part of Your World > Tutorial and Swim this Way
+
+- A New Day is Dawning > Ursula’s Revenge > Under the Sea > Part of Your World > Tutorial and Swim this Way
 
 **Agrabah**
-AG2 > AS Lexaeus > AG1 > Data Lexaeus
+
+- AG2 > AS Lexaeus > AG1 > Data Lexaeus
 
 **Beast’s Castle**
-BC2 > BC1 > Data Xaldin
+
+- BC2 > BC1 > Data Xaldin
 
 **Disney Castle**
-Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
+
+- Timeless River > AS Marluxia > Disney Castle > Data Marluxia and Lingering Will
 
 **Halloween Town**
-HT2 > AS Vexen > HT1 > Data Vexen
+
+- HT2 > AS Vexen > HT1 > Data Vexen
 
 **Hollow Bastion**
-HB2 > CoR > Transport > Sephiroth > HB1 > Data Demyx
+
+- HB2 > CoR > Transport > Sephiroth > HB1 > Data Demyx
 
 **Land of Dragons**
-LOD2 > LOD1 > Data Xigbar
+
+- LOD2 > LOD1 > Data Xigbar
 
 **Olympus Coliseum**
-OC2 > AS Zexion > OC1 > Data Zexion
+
+- OC2 > AS Zexion > OC1 > Data Zexion
 
 **Port Royal**
-PR2 > PR1 > Data Luxord
+
+- PR2 > PR1 > Data Luxord
 
 **Pride Lands**
-PL2 > PL1 > Data Saix
+
+- PL2 > PL1 > Data Saix
 
 **Space Paranoids**
-SP2 > AS Larxene > SP1 > Data Larxene
+
+- SP2 > AS Larxene > SP1 > Data Larxene
 
 **STT**
-Reversed Days
+
+- Reversed Days
 
 **Twilight Town**
-TT3 > TT2 > TT1 > Data Axel
+
+- TT3 > TT2 > TT1 > Data Axel
 
 **TWTNW**
-The world is not reversed. The bosses are reversed.
-Xemnas > Saix > Luxord > Xigbar > Roxas
+
+- The world is not reversed. The bosses are reversed.
+- Xemnas > Saix > Luxord > Xigbar > Roxas
 
 ---
 
@@ -208,15 +223,25 @@ Shotgun Tutorial by Metthaios:
 **Starry Hill**
 
 - Requires 0 pages
-  **Spooky Cave**
+
+**Spooky Cave**
+
 - Requires 1 page
-  **Kanga’s House**
+
+**Kanga’s House**
+
 - Requires 2 pages
-  **Rabbit’s House**
+
+**Rabbit’s House**
+
 - Requires 3 pages
-  **Piglet’s House**
+
+**Piglet’s House**
+
 - Requires 4 pages
-  **Pooh’s House**
+
+**Pooh’s House**
+
 - Requires 5 pages
 
 **!Missable Chests!**
@@ -230,13 +255,21 @@ Shotgun Tutorial by Metthaios:
 **A New Day is Dawning**
 
 - Nothing required
-  **Ursula’s Revenge**
+
+**Ursula’s Revenge**
+
 - Magnet required
-  **Under the Sea**
+
+**Under the Sea**
+
 - 5 Drive Gauges required
-  **Part of Your World**
+
+**Part of Your World**
+
 - Magnera required
-  **Tutorial + Swim This Way**
+
+**Tutorial + Swim This Way**
+
 - Thundaga required
 
 <!-- TOC --><a name="agrabah"></a>
