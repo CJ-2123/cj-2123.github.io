@@ -4,7 +4,7 @@
 
 **Goal:** Complete Atlantica
 
-Rules:
+**Rules:**
 
 - Can equip any growth abilities
 - Can open chests in GoA and look at shop

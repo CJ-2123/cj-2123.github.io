@@ -4,7 +4,7 @@
 
 - Using Roromaniac's grid tracker to play bingo
 - Possible goals: all bosses and superbosses, progression, all important checks.
-- Max settings: everything is on, Spoiler hints
+- **Max settings:** everything is on, Spoiler hints
 
 **Settings String:**
 
@@ -13,15 +13,15 @@
 ## Insane Blackjack
 
 - Important Checks have different point values
-  -- Reports = 1
-  -- Magic = 2
-  -- Locking Keyblades = 3
-  -- Summons = 4
-  -- Drive Forms/Torn Pages = 5
-  -- Proofs = 6
-  -- SC/OM = 7
-- Win condition: 21 points or a number under 21 higher than opponents. Over 21 = Lose and re-roll.
-- Settings: Insane item placement, Points hints, Levels off, All locations on except cups/puzzles/synth
+  - Reports = 1
+  - Magic = 2
+  - Locking Keyblades = 3
+  - Summons = 4
+  - Drive Forms/Torn Pages = 5
+  - Proofs = 6
+  - SC/OM = 7
+- **Win condition:** 21 points or a number under 21 higher than opponents. Over 21 = Lose and re-roll.
+- **Settings:** Insane item placement, Points hints, Levels off, All locations on except cups/puzzles/synth
 
 **Settings String:**
 
@@ -29,17 +29,17 @@
 
 ## IC Slots
 
-- There are 7 categories of important checks in the slot machine.
+- There are 7 categories of important checks in the [slot machine](https://cj-2123.github.io/KH2-Slot-Machine/).
 - Play slots until win. Must collect all of item type that won.
-  -- 13 Reports
-  -- 18 Magic
-  -- 5 Torn Pages
-  -- 5 Drive Forms
-  -- 4 Summons
-  -- 3 Proofs
-  -- 26 Locks
-  -- 15 Keyblades
-- Settings: All locations on except Hades Paradox, nerfed multipliers, Spoiler hints, Normal item placement
+  - 13 Reports
+  - 18 Magic
+  - 5 Torn Pages
+  - 5 Drive Forms
+  - 4 Summons
+  - 3 Proofs
+  - 26 Locks
+  - 15 Keyblades
+- **Settings:** All locations on except Hades Paradox, nerfed multipliers, Spoiler hints, Normal item placement
 
 **Settings String:**
 
@@ -49,8 +49,8 @@
 
 - 1 proof is on one of the 13 datas
 - Played with Spoiler Progression Hints with each hint costing one point, but only datas give points. Each data gives 1 prog point.
-- Win Condition: Obtain the Proof of Nonexistence
-- Settings: Levels/Forms/Atlantica/100AW off, Sephi/Terra off, Normal item placement, Proofs on Superbosses, Progression Spoiler Hints, AS/Data Split on
+- **Win Condition:** Obtain the Proof of Nonexistence
+- **Settings:** Levels/Forms/Atlantica/100AW off, Sephi/Terra off, Normal item placement, Proofs on Superbosses, Progression Spoiler Hints, AS/Data Split on
 
 **Settings String:**
 
