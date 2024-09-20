@@ -4,6 +4,7 @@
 
 - [KH2](#kh2)
   - [Default](#kh2default)
+  - [Generic](#kh2generic)
   - [Bosses](#bosses)
   - [Bingosync](#bingosync)
 - [KH1](#kh1)
@@ -26,6 +27,8 @@
 <!-- TOC --><a name="kh2default"></a>
 
 ### Default
+
+Default list of goals for KH2.
 
 ```
 [
@@ -390,9 +393,177 @@
 ];
 ```
 
+<!-- TOC --><a name="kh2generic"></a>
+
+### Generic
+
+These goals are designed to be completable at any time during a seed with the rule being that they are independent of each other. This makes these goals more compatible with Fog of War and Roguelike Bingo modes. Only about 7 goals are theoretically impossible to complete after a certain point. Not compatible with Boss Rando or Reverse Rando.
+
+```
+[
+	{name: "Defeat a boss"},
+	{name: "Defeat 2 Bosses"},
+	{name: "Defeat 3 Bosses"},
+	{name: "Defeat a boss with fire"},
+	{name: "Defeat a boss with blizzard"},
+	{name: "Defeat a boss with thunder"},
+	{name: "Defeat a boss with reflect"},
+	{name: "Defeat a boss with a ground finisher"},
+	{name: "Defeat a boss with an air finisher"},
+	{name: "Defeat a boss with a Donald limit"},
+	{name: "Defeat a boss with a Goofy limit"},
+	{name: "Defeat a boss while in a Drive Form"},
+	{name: "Defeat a boss while a summon is out"},
+	{name: "Find 1 magic element"},
+	{name: "Find 2 magic elements"},
+	{name: "Find 3 magic elements"},
+	{name: "Find a Keyblade"},
+	{name: "Grab 10 puzzle pieces"},
+	{name: "Grab 15 puzzle pieces"},
+	{name: "Grab 20 puzzle pieces"},
+	{name: "Complete a 100AW Minigame"},
+	{name: "Save Piglet"},
+	{name: "Reach the bottom of Hunny Pot Hill"},
+	{name: "Bounce on 10 balloons with Tigger and Roo"},
+	{name: "Find Pooh in the Spooky Cave"},
+	{name: "Get over 6900 in Yeet the Bear"},
+	{name: "Level up a drive form"},
+	{name: "Refill a bar of drive with Magnet Trinity"},
+	{name: "Dual Wield Oathkeeper and Oblivion"},
+	{name: "Parry an attack with Valor Form"},
+	{name: "Use every magic element in Wisdom Form once"},
+	{name: "Use every limit in Limit Form once"},
+	{name: "Kill an enemy with Master Form's spinning finisher"},
+	{name: "Kill an enemy with Final Form glide"},
+	{name: "Kill an enemy with an auto form"},
+	{name: "Kill an enemy with Anti-Sora"},
+	{name: "Level up Sora"},
+	{name: "Kill an enemy with Beast's limit" },
+	{name: "Kill an enemy with Mulan's limit" },
+	{name: "Kill an enemy with Auron's limit" },
+	{name: "Kill an enemy with Jack Sparrow's limit"},
+	{name: "Kill an enemy with Aladdin's limit" },
+	{name: "Kill an enemy with Jack Skellington's limit" },
+	{name: "Kill an enemy with Simba's limit" },
+	{name: "Kill an enemy with Tron's limit" },
+	{name: "Kill an enemy with Riku's limit"},
+	{name: "Use Chicken Little's limit"},
+	{name: "Use all of Genie's limits"},
+	{name: "Use Stitch's limit"},
+	{name: "Use Peter Pan's limit"},
+	{name: "Kill an enemy with Flare Force"},
+	{name: "Kill an enemy with Comet"},
+	{name: "Kill an enemy with Tornado Fusion"},
+	{name: "Kill an enemy with Teamwork"},
+	{name: "Use all three Trinity Limit attacks"},
+	{name: "Let Donald or Goofy kill an enemy"},
+	{name: "Get a reward from a Mushroom"},
+	{name: "Get a reward from Mushroom 1 (TWTNW)"},
+	{name: "Get a reward from Mushroom 2 (HT)"},
+	{name: "Get a reward from Mushroom 3 (BC)"},
+	{name: "Get a reward from Mushroom 4 (LOD)"},
+	{name: "Get a reward from Mushroom 5 (AG)"},
+	{name: "Get a reward from Mushroom 6 (OC)"},
+	{name: "Get a reward from Mushroom 7 (TT Tunnelway)"},
+	{name: "Get a reward from Mushroom 8 (Yen Sid's Tower)"},
+	{name: "Get a reward from Mushroom 9 (HB)"},
+	{name: "Get a reward from Mushroom 10 (PR)"},
+	{name: "Get a reward from Mushroom 11 (TR)"},
+	{name: "Get a reward from Mushroom 12 (TT Mansion)"},
+	{name: "Synth 3 unique items"},
+	{name: "Level up the Moogle"},
+	{name: "Collect 7 unique synth materials"},
+	{name: "Complete a Cup"},
+	{name: "Pain and Panic Cup"},
+	{name: "Cerberus Cup"},
+	{name: "Titan Cup"},
+	{name: "Goddess of Fate Cup"},
+	{name: "Buy 20 Potions"},
+	{name: "Buy 10 elixirs"},
+	{name: "Buy 5 Megalixirs"},
+	{name: "Buy 3 unique items from a shop"},
+	{name: "Complete a job as Roxas"},
+	{name: "Complete a job as Sora"},
+	{name: "Mail Delivery job" },
+	{name: "Poster Duty job" },
+	{name: "Cargo Climb job" },
+	{name: "Grandstander job" },
+	{name: "Bumble Buster job" },
+	{name: "Junk Sweep job" },
+	{name: "Enter Namine's room as Roxas"},
+	{name: "Enter Namine's room as Sora"},
+	{name: "Destroy all tents in Shang's Camp"},
+	{name: "Enter the Throne Room in Land of Dragons"},
+	{name: "Use the RC on a tram in Twilight Town"},
+	{name: "Win a struggle match"},
+	{name: "Lose a struggle match"},
+	{name: "Phil's Urn Training"},
+	{name: "Destroy the 8 armor statues in the West Hall of Beast's Castle"},
+	{name: "Examine Beast's Rose"},
+	{name: "Defeat all enemies in Mickey's House"},
+	{name: "Beat an ambush on the boat in Port Royal"},
+	{name: "Treasure Room Trial"},
+	{name: "Spin the carousel in Xmas Town"},
+	{name: "Present Wrapping"},
+	{name: "Light Cycle"},
+	{name: "Complete a skateboard minigame"},
+	{name: "Kill an enemy using a skateboard"},
+	{name: "Kill some bees"},
+	{name: "Defeat all enemies in the elevator in TWTNW"},
+	{name: "Die to a Data Org boss"},
+	{name: "Defeat an Org XIII member"},
+	{name: "Destroy Vexen's shield"},
+	{name: "Let Lexaeus's power level reach 999999"},
+	{name: "Get into the blue circle in Zexion's book world"},
+	{name: "Use Merge on Larxene"},
+	{name: "Defeat Marluxia with Sora's counter 10 or below"},
+	{name: "Clear the fire floor from under Axel"},
+	{name: "Use Show Stealer on Demyx"},
+	{name: "Use 9 jumps on Xaldin"},
+	{name: "Hit Xigbar with his blue laser"},
+	{name: "Take Roxas's Keyblades"},
+	{name: "Win a game against Luxord"},
+	{name: "Witness Saix enter his berserk state"},
+	{name: "Clash with Xemnas"},
+	{name: "Survive Xemnas's Laser Dome"},
+	{name: "Get Terra to 1st health gate (around 5 bars)"},
+	{name: "Get Terra to 2nd health gate (around 10 bars)"},
+	{name: "Clip out of bounds"},
+	{name: "Go through the Engine Chamber in CoR"},
+	{name: "Enter the Transport to Remembrance"},
+	{name: "Enter GoA through the Transport to Remembrance"},
+	{name: "Talk to a Final Fantasy character"},
+	{name: "Heal a party member with Cure"},
+	{name: "Use a potion, ether, elixir, and tent"},
+	{name: "Use a mega-potion, mega-ether, and megalixir"},
+	{name: "Equip an Ultimate Weapon to a Main Party Member"},
+	{name: "Equip Donald and Goofy with their Nobody Weapons"},
+	{name: "Equip 3 rings"},
+	{name: "Equip 2 earrings"},
+	{name: "Equip 3 armors with each having unique resistances"},
+	{name: "Kill 15 types of heartless"},
+	{name: "Kill 3 types of Nobodies"},
+	{name: "Use Capsule Prize on a Bulky Vendor"},
+	{name: "Use Cyclone on a Soldier"},
+	{name: "Use Bolt Reversal on a Bolt Tower"},
+	{name: "Use Root Ravenger on a Creeper Plant"},
+	{name: "Use Release on a Gargoyle"},
+	{name: "Use Bat Cry on a Hook Bat"},
+	{name: "Use Tornado Ride on a Tornado Step"},
+	{name: "Use Wind Dance on a Neoshadow"},
+	{name: "Win a game against a Gambler"},
+	{name: "Use Warp Snipe on a Sniper"},
+	{name: "Use Jump on a Dragoon"},
+	{name: "Hit a Berserker with a hammer"},
+	{name: "Use Duel Stance on a Samurai"},
+]
+```
+
 <!-- TOC --><a name="bosses"></a>
 
 ### Bosses
+
+List of KH2 Bosses for Boss Hunter. Organization XIII members are not split by Absent Silhouette and Data versions.
 
 ```
 [
@@ -459,6 +630,8 @@
 
 ## Bingosync
 
+Links to bingosync task lists.
+
 [Original](https://github.com/kbuzsaki/bingosync/blob/main/bingosync-app/generators/kingdom_hearts_2_final_mix_generator.js)
 
 [Current](https://github.com/kbuzsaki/bingosync/blob/main/bingosync-app/generators/kingdom_hearts_2_final_mix_current_generator.js)
@@ -467,11 +640,15 @@
 
 ## KH1
 
+This spreadsheet allows you to create a customizable goal list compatible with bingosync or the KH Bingo Generator.
+
 [Spreadsheet Generator by the KH1 Rando Commnuity](https://docs.google.com/spreadsheets/d/1v44eTIGJwF9aWlIVuuu6S1GxV2LNB39yG8mYXZc9GE8/edit#gid=930275297)
 
 <!-- TOC --><a name="kh1easy"></a>
 
 ### Easy
+
+Made with the "Easy" goals from the spreadsheet generator.
 
 ```
 [
@@ -551,6 +728,8 @@
 <!-- TOC --><a name="kh1normal"></a>
 
 ### Normal
+
+Made with the "Easy" and "Medium" goals from the spreadsheet generator.
 
 ```
 [
@@ -727,6 +906,8 @@
 <!-- TOC --><a name="kh1hard"></a>
 
 ### Hard
+
+Made with the "Easy", "Medium", and "Hard" goals from the spreadsheet generator.
 
 ```
 [
@@ -979,6 +1160,8 @@
 <!-- TOC --><a name="kh1nightmare"></a>
 
 ### Nightmare
+
+Made with the "Easy", "Medium", "Hard", and "Nightmare" goals from the spreadsheet generator.
 
 ```
 [
@@ -1252,6 +1435,8 @@
 
 ### Default
 
+Default list of goals for KH3.
+
 ```
 [
   { name: "Defeat the Rock Troll in Olympus" },
@@ -1519,6 +1704,8 @@
 
 ## BBS
 
+Link to goal lists for Terra, Ven, and Aqua.
+
 [Bingo Task Lists by the BBS Speedrunning Community](https://pastebin.com/ryAKD3Mg)
 
 <!-- TOC --><a name="combo"></a>
@@ -1528,6 +1715,8 @@
 <!-- TOC --><a name="kh1+2"></a>
 
 ### KH 1 + 2
+
+This list combines the KH2 Default task list and the KH1 Hard task list with a few extra KH1 goals. Each goal is marked by game.
 
 ```
 [
@@ -1812,6 +2001,7 @@
   { name: "KH1: Acquire Green Trinity" },
   { name: "KH1: Seal 3 Keyholes" },
   { name: "KH1: Seal 5 Keyholes" },
+  { name: "KH1: Seal 8 Keyholes" },
   { name: "KH1: Defeat any 1 Super Boss" },
   { name: "KH1: Defeat Kurt Zisa" },
   { name: "KH1: Defeat Phantom" },
@@ -1825,8 +2015,8 @@
   { name: "KH1: Clear Hollow Bastion" },
   { name: "KH1: Clear Halloween Town" },
   { name: "KH1: Obtain Ultima Weapon or Wooden Sword" },
-  { name: "KH1: Obtain Metal Chocobo, Lionheart, or One-Winged Angel" },
-  { name: "KH1: Obtain Dream Sword, Rod or Shield (Any Party Members)" },
+  { name: "KH1: Obtain Metal Chocobo, Lionheart, and One-Winged Angel" },
+  { name: "KH1: Obtain Dream Sword, Rod and Shield (Any Party Members)" },
   { name: "KH1: Obtain Oathkeeper or Oblivion" },
   { name: "KH1: Obtain Diamond Dust or One-Winged Angel" },
   { name: "KH1: Obtain Metal Chocobo or Lionheart" },
@@ -1835,6 +2025,7 @@
   { name: "KH1: Obtain Fairy Harp or Crabclaw" },
   { name: "KH1: Obtain Jungleking or Pumpkinhead" },
   { name: "KH1: Obtain Olympia or Spellbinder" },
+  { name: "KH1: Obtain Dream Rod, Sword, or Shield (Any Party Member)" },
   { name: "KH1: Possess 7 Unique Keyblades Simultaneously" },
   { name: "KH1: Possess 13 Unique Keyblades Simultaneously" },
   { name: "KH1: Clear Phil Cup" },
@@ -1859,6 +2050,7 @@
   { name: "KH1: Find 3 Post Cards" },
   { name: "KH1: Find 7 Post Cards" },
   { name: "KH1: Find 10 Post Cards" },
+  { name: "KH1: Beat Riku In A Race" },
   { name: "KH1: 15/20 Chests in Traverse Town" },
   { name: "KH1: 15/19 Chests in Wonderland" },
   { name: "KH1: 15/37 Chests in Agrabah" },
@@ -1888,10 +2080,15 @@
   { name: "KH1: Pull Out all of Rabbit's Crops" },
   { name: "KH1: Blow up an Urchin in Atlantica" },
   { name: "KH1: Gather 50 Fruit on Jungle Slider" },
+  { name: "KH1: Synth 6 Unique Items" },
+  { name: "KH1: Synth 12 Unique Items" },
+  { name: "KH1: Synth 18 Unique Items" },
   { name: "KH1: Sora: Ars or Strike Raid" },
   { name: "KH1: Sora: Leaf Bracer or Second Chance" },
+  { name: "KH1: Sora: Leaf Bracer and Second Chance" },
   { name: "KH1: Sora: Sonic Blade or Ripple Drive" },
   { name: "KH1: Sora: Vortex or Hurricane Blast" },
+  { name: "KH1: Sora: Scan-Ra" },
   { name: "KH1: Sora: MP Rage or MP Haste" },
   { name: "KH1: Sora: Tech Boost or Treasure Magnet" },
   { name: "KH1: Sora: Lucky Strike or Critical Plus" },
@@ -1904,8 +2101,14 @@
   { name: "KH1: 50 Hits on a Rare Truffle" },
   { name: "KH1: 100 Hits on a Rare Truffle" },
   { name: "KH1: Get Poisoned" },
+  { name: "KH1: High Jump-Ga" },
   { name: "KH1: 3 Unique Mushroom Arts" },
   { name: "KH1: 5 Unique Mushroom Arts" },
+  { name: "KH1: Collect the Seagull Egg Check on Day 2" },
+  { name: "KH1: Collect a Coconut Check on Day 2" },
+  { name: "KH1: Collect a Log check on Day 1" },
+  { name: "KH1: Fight the 3v1 on Destiny Islands" },
+  { name: "KH1: Collect the Drinking Water Check on Day 2" },
   { name: "KH1: Learn the Spell Graviga" },
   { name: "KH1: Learn the Spell Aeroga" },
   { name: "KH1: Learn the Spell Firaga" },
@@ -1938,13 +2141,17 @@
   { name: "KH1: Kill a Gigas Shadow" },
   { name: "KH1: Kill a Jet Balloon" },
   { name: "KH1: Kill 3 Unique Pureblood Heartless" },
+  { name: "KH1: Kill 5 Unique Pureblood Heartless" },
   { name: "KH1: Defeat Oogie" },
   { name: "KH1: Defeat a Boss with Their World's Keyblade" },
   { name: "KH1: Defeat Anti-Sora" },
-  { name: "KH1: Obtain the check from Jack's House" },
+  { name: "KH1: Obtain the Elixir from Jack's House" },
+  { name: "KH1: Defeat 150 of a Single Heartless" },
+  { name: "KH1: Defeat 300 of a single Heartless" },
   { name: "KH1: Defeat Maleficent" },
   { name: "KH1: Defeat Dragon Maleficent" },
   { name: "KH1: Defeat a Behemoth" },
+  { name: "KH1: Defeat 4 Behemoths" },
   { name: "KH1: Defeat Ursula" },
   { name: "KH1: Defeat Cloud with the Metal Chocobo or One-Winged Angel" },
   { name: "KH1: Defeat Cloud in the Herc Cup" },
@@ -1957,6 +2164,7 @@
   { name: "KH1: Recieve an Item from Kairi in the Secret Waterway" },
   { name: "KH1: Obtain Superglide (any 2 Glides)" },
   { name: "KH1: Obtain High Jump" },
+  { name: "KH1: 3 Unique EXP Items" },
   { name: "KH1: Obtain an EXP Item" },
   { name: "KH1: Sora: Ars Arcanum or Ragnarok" },
   { name: "KH1: Obtain Glide (any 1 Glide)" },
@@ -1968,8 +2176,10 @@
   { name: "KH1: 5 Ra-Spells" },
   { name: "KH1: All Ra-Spells" },
   { name: "KH1: Talk to Belle in the Library" },
+  { name: "KH1: Destiny Island Day 2 Chest" },
   { name: "KH1: Brew a Potion in Camp" },
   { name: "KH1: Collect a Clock Tower Door Reward" },
+  { name: "KH1: Collect 2 Clock Tower Door Rewards" },
   { name: "KH1: Obtain Fire Arts" },
   { name: "KH1: Obtain Blizzard Arts" },
   { name: "KH1: Obtain Thunder Arts" },
@@ -1979,10 +2189,17 @@
   { name: "KH1: Obtain Aero Arts" },
   { name: "KH1: At Least 50 Hits on Pink Agaricus" },
   { name: "KH1: Become a Heartless" },
+  { name: "KH1: Open All Evidence Boxes" },
   { name: "KH1: Visit Geppetto's House" },
+  { name: "KH1: Obtain the Cid Model Blueprint" },
+  { name: "KH1: Obtain the Chocobo Model Blueprint" },
   { name: "KH1: Break all Pots without Waking Pot Scorpion" },
+  { name: "KH1: Complete a Section of Jiminy's Journal" },
   { name: "KH1: Open the Emblem Door in Hollow Bastion" },
   { name: "KH1: Collect all 4 Emblem Piece Checks" },
+  { name: "KH1: Have all Day 2 Destiny Island Items" },
+  { name: "KH1: Compete Against Riku 10 Times" },
+  { name: "KH1: Choose a Dream Weapon" },
   { name: "KH1: Sora: Obtain Air Combo Plus or Combo Plus" },
   { name: "KH1: Save Aladdin From the Sand" },
   { name: "KH1: Defeat Opposite Armor" },
@@ -1993,7 +2210,6 @@
   { name: "KH1: Start A Fight in the Queens Courtyard" },
   { name: "KH1: Hitch a Ride with a Dolphin" },
   { name: "KH1: Defeat Parasite Cage for the First Time" },
-  { name: "KH1: Defeat Parasite Cage for the Second Time" },
   { name: "KH1: All 4 Chests in Tea Party Garden" },
   { name: "KH1: Freeze a Bubble in Hollow Bastion" },
   { name: "KH1: Ride in 4 Different Bubbles in Hollow Bastion" },
@@ -2003,11 +2219,12 @@
   { name: "KH1: Blow out the Candles in First District" },
   { name: "KH1: Light the Fire Place in the Accessory Shop" },
   { name: "KH1: Acquire Jack-In-The-Box" },
+  { name: "KH1: Defeat Leon with The Lionheart" },
+  { name: "KH1: Kill 10 Black Mushrooms" },
+  { name: "KH1: Activate the White Trinity in Atlantica" },
   { name: "KH1: Acquire a Slide" },
   { name: "KH1: Acquire the Entry Pass" },
   { name: "KH1: Acquire Evidence" },
-  { name: "KH1: Defeat Leon with The Lionheart" },
-  { name: "KH1: Activate the White Trinity in Atlantica" },
   { name: "KH1: Defeat Trickmaster" },
   { name: "KH1: Defeat Sabor 2" },
   { name: "KH1: Defeat Clayton" },
