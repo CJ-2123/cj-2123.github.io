@@ -84,10 +84,8 @@ Generally, the visits for each world are in reverse order, i.e. 2nd visit before
 **There are some special cases:**
 
 - TWTNW world is not reversed, just the bosses.
-- Hollow Bastion has special progression:
-- HB2 > CoR > Transport to Remembrance > Sephiroth > HB1
-- Worlds with Absent Silhouettes require you to beat the Absent Silhouette in between visits
-- This applies to Olympus Coliseum, Agrabah, Disney Castle/Timeless River, Halloween Town, and Space Paranoids
+- Hollow Bastion has special progression: HB2 > CoR > Transport to Remembrance > Sephiroth > HB1
+- Worlds with Absent Silhouettes require you to beat the Absent Silhouette in between visits. This applies to Olympus Coliseum, Agrabah, Disney Castle/Timeless River, Halloween Town, and Space Paranoids
 - Timeless River is before Disney Castle
 - STT days are reversed
 - 100 Acre Wood pages are reversed
@@ -215,8 +213,37 @@ Battle levels are swapped between the visits. Adjustments have also been made to
 
 ## Resources
 
-Shotgun Tutorial by Metthaios:
-**[https://www.youtube.com/live/eiUBPDPpjaI](https://www.youtube.com/live/eiUBPDPpjaI)**
+**Shotgun Tutorial by Metthaios:**
+
+- **[https://www.youtube.com/live/eiUBPDPpjaI](https://www.youtube.com/live/eiUBPDPpjaI)**
+
+**Progression Points CSV**
+
+- Based on general points progression used in most competitve settings for regular rando.
+- Copy the block below and press "Load CSV from Clipboard" in the "Configure Progression Points" window under the "Hints" tab in the generator.
+
+```
+Hint Thresholds,2,3,3,4,4,4,5,5,5,6,6,6,0,0,0,0,0,0
+Level,0,0,1,1,2
+Form Levels,0,0,0,1,1,1
+Simulated Twilight Town,0,1,2,1,1,1,1,6
+Twilight Town,0,2,2,2,1,1,6
+Hollow Bastion,0,2,0,1,1,1,2,2,3,6
+Beast's Castle,0,2,1,3,1,2,6
+Olympus Coliseum,0,2,0,2,0,3,1,2,3,6
+Agrabah,0,1,1,1,3,1,2,4,6
+Land of Dragons,0,1,1,1,1,3,1,2,6
+Hundred Acre Wood,4,1,1,1,2,1
+Pride Lands,0,1,1,3,1,2,6
+Atlantica,0,1,1
+Disney Castle / Timeless River,0,2,1,1,1,2,4,6,7
+Halloween Town,0,1,2,3,1,1,2,3,6
+Port Royal,0,1,1,0,1,3,1,1,2,6
+Space Paranoids,0,2,2,1,2,4,6
+The World That Never Was,0,2,3,2,2,2,7
+Cavern of Remembrance,0,1,0,1,2
+
+```
 
 ---
 
