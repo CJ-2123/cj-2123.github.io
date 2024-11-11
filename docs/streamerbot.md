@@ -93,3 +93,19 @@ Sends the current song title as a message in Twitch chat.
 ### Timeout Point Reward
 
 [From streamerbot extensions](https://extensions.streamer.bot/t/timeout-user-reward/155)
+
+### Text-to-Speech Reward
+
+Allows subscribed users to redeem a channel point reward for text-to-speech. The user can choose from different voices.
+
+![TTS](../img/tts.jpg "TTS")
+
+![TTS](../img/tts-2.jpg "TTS")
+
+The bot will refund the user if they are not subscribed.
+
+![TTS](../img/tts-3.jpg "TTS")
+
+The rewards can be toggled through chat commands.
+
+![TTS](../img/tts-4.jpg "TTS")
