@@ -4,6 +4,8 @@ For Beginner
 
 Based on panicpng's run in 3:57:03 on PS4: [https://www.twitch.tv/videos/746750839?t=0h0m1s](https://www.twitch.tv/videos/746750839?t=0h0m1s)
 
+Vod of run: [KH1 Pooh%](https://www.youtube.com/live/n0fh8XzSE8Y?si=tmkgJ5eyqRXjmgwN)
+
 # Awakening
 
 Pick Staff, Give up Shield

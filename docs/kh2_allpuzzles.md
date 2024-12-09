@@ -8,7 +8,7 @@ https://www.twitch.tv/videos/737099188?t=0h0m1s
 
 Menu notes are for Crit
 
-Vod for run: [https://www.twitch.tv/videos/1418379825](https://www.twitch.tv/videos/1418379825)
+Vod for run: [KH2 All Puzzles](https://www.youtube.com/live/kNPgDVG-q68?si=nKrl_TJlkXeGLEsQ)
 
 # STT
 

@@ -1,6 +1,6 @@
 **Goal: Beat game with ez codes**
 
-Vod of run: [https://www.twitch.tv/videos/1265344537?t=05h44m30s](https://www.twitch.tv/videos/1265344537?t=05h44m30s)
+Vod of run: [KH3 EZ Codes](https://www.youtube.com/live/EltwyooC908?si=NBmtSXoMC701RUex&t=20593)
 
 # Awakening
 

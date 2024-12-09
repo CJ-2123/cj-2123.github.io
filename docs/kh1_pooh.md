@@ -2,7 +2,7 @@
 
 For beginner.
 
-Vod of run: [https://youtu.be/kkkcr98lM3g?si=Uwc4BPbfQQmBh4hl](https://youtu.be/kkkcr98lM3g?si=Uwc4BPbfQQmBh4hl)
+Vod of run: [KH1 Pooh%](https://www.youtube.com/live/G-_y60_ausM?si=ZjjhRfAQPrT2bF6D)
 
 # Awakening
 

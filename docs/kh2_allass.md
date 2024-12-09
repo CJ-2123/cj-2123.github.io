@@ -4,7 +4,7 @@ Based on TehRizzle’s 2FM All Worlds RPG Limit Break Showcase: [https://youtu.b
 
 Menu notes are for Crit
 
-Vod of run: [https://www.twitch.tv/videos/1265344537](https://www.twitch.tv/videos/1265344537)
+Vod of run: [KH2 All ASS](https://www.youtube.com/live/0KdOM3nwr_E?si=D5ATjWXODQ5S--It)
 
 # STT
 
