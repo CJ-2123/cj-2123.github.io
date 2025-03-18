@@ -17,14 +17,17 @@ My most commonly used KH mods using [OpenKH](https://github.com/OpenKH/OpenKh/re
 
 ### Visual
 
-- danimalforlife/Brighter-CTMC
 - dallin1016/Timeless-Sora-Everywhere
+- danimalforlife/Brighter-CTMC
+- danimalforlife/PAUSERS
 - Dee-Ayy/BallroomBeast
 - Dee-Ayy/fast-title-rando-theme
+- Dee-Ayy/KingdomOSMenu
 - Dee-Ayy/Musical-Silhouettes
 - Dee-Ayy/Organization-100
 - KH2FM-Mods-Num/SMT-Spell-Names
 - [Purple Form](https://www.nexusmods.com/kingdomhearts2finalmix/mods/46)
+- TheNja09/CC-Abilities-and-Stats (I removed the ability rankings)
 - shananas/PeekPerformanceHD
 - shananas/ModelSwapCombo
 
