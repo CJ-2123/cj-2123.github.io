@@ -2,10 +2,7 @@
 
 Menu notes for Crit
 
-Vod of run:
-
-- Part 1: [https://www.twitch.tv/videos/1517232272](https://www.twitch.tv/videos/1517232272)
-- Part 2: [https://www.twitch.tv/videos/1517232485](https://www.twitch.tv/videos/1517232485)
+Vod of run: [KH3 Utlima%](https://youtube.com/live/f-HEsC5wPbI?feature=share)
 
 # Awakening
 

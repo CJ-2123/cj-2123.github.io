@@ -2,7 +2,7 @@
 
 Menu notes for Crit
 
-Vod of run: [https://youtu.be/GZ24qkz29Ec?si=rvvB65k0WFO249X3](https://youtu.be/GZ24qkz29Ec?si=rvvB65k0WFO249X3)
+Vod of run: [KH3 All Recipes](https://youtube.com/live/K7FarHPeQEk?feature=share)
 
 # Awakening
 

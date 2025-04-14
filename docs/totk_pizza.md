@@ -2,7 +2,7 @@
 
 This run was done glitchless.
 
-Vod of run: [https://www.twitch.tv/videos/1900916022](https://www.twitch.tv/videos/1900916022)
+Vod of run: [TotK Pizza%](https://youtube.com/live/Y60bYdJWlW4?feature=share)
 
 # Temple of Time
 
