@@ -2,7 +2,7 @@
 
 Menu notes are for Crit
 
-Vod of run: [https://www.twitch.tv/videos/1601588362](https://www.twitch.tv/videos/1601588362)
+Vod of run: [KH3 Drip%](https://www.youtube.com/live/1jLVvL9qd8E?si=de1uoSNJyrnH0epz)
 
 # Darkside
 

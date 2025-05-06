@@ -4,7 +4,7 @@ Menu notes for Standard difficulty. Based on Standard Any% tutorial by Violin: [
 
 (This isn't done on Beginner because Beginner starts with the Ribbon)
 
-Vod of run: [https://www.twitch.tv/videos/1585366228](https://www.twitch.tv/videos/1585366228)
+Vod of run: [KH1 Drip%](https://www.youtube.com/live/JIjCshmrS0w?si=u9N39ax1tyoM8O69)
 
 # Awakening
 

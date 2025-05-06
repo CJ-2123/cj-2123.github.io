@@ -2,7 +2,7 @@
 
 Menu notes are for Crit
 
-Vod of run: [https://www.twitch.tv/videos/1601587778](https://www.twitch.tv/videos/1601587778)
+Vod of run: [KH2 Drip%](https://www.youtube.com/live/O962bvTqlNM?si=RlXs7dDYqhIdbsJV)
 
 # STT
 
