@@ -2,7 +2,7 @@
 
 Menu notes are for Crit
 
-Vod of run: [https://www.twitch.tv/videos/1900917394](https://www.twitch.tv/videos/1900917394)
+Vod of run: [KH2 All Recipes (Collect + Synth)](https://youtube.com/live/WXWL5udIlA0?feature=share)
 
 # STT
 
