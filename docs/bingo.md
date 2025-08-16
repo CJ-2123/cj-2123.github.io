@@ -1446,7 +1446,7 @@ Made for the Archipelago Randomizer. Simliar to the KH2 Grid Tracker goal list w
   { name: "Cloud" },
   { name: "Cerberus" },
   { name: "Sabor" },
-  { name: "Stealth Sneak" },
+  { name: "Clayton" },
   { name: "Pot Centipede" },
   { name: "Cave of Wonders Guardian" },
   { name: "Jafar" },
@@ -1569,6 +1569,11 @@ Made for the Archipelago Randomizer. Simliar to the KH2 Grid Tracker goal list w
   { name: "Hades Cup 40th Seed" },
   { name: "Hades Cup 44th Seed" },
   { name: "Hercules" },
+  { name: "Riku (Destiny Islands)" },
+  { name: "Tidus" },
+  { name: "Selphie" },
+  { name: "Wakka" },
+  { name: "Destiny Islands 3v1" }
 ];
 ```
 
