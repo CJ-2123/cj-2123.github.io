@@ -4,6 +4,8 @@ Menu notes for Crit
 
 Vod of run: [KH3 All Recipes](https://youtube.com/live/K7FarHPeQEk?feature=share)
 
+[KH3 All Recipes spreadsheet notes](https://docs.google.com/spreadsheets/d/1MASqwkYFEoZEaDx-2gO_Znw-wLFwby8RQ-HZYJ8Xv6c/edit?usp=sharing)
+
 # Awakening
 
 Choose wisdom (kh1 mickey) and mystic (meow wow) and usual (left)

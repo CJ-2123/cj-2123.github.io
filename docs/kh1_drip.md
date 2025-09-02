@@ -6,6 +6,8 @@ Menu notes for Standard difficulty. Based on Standard Any% tutorial by Violin: [
 
 Vod of run: [KH1 Drip%](https://www.youtube.com/live/JIjCshmrS0w?si=u9N39ax1tyoM8O69)
 
+[KH1 Ribbon% spreadsheet notes](https://docs.google.com/spreadsheets/d/1qoc0z97o5uPVLvC6Uq8i5HB6LL3oMYDdGu9NTAPbC2c/edit?usp=sharing)
+
 # Awakening
 
 Pick Staff, give up Shield

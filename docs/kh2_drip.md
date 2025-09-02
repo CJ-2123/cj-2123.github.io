@@ -4,6 +4,8 @@ Menu notes are for Crit
 
 Vod of run: [KH2 Drip%](https://www.youtube.com/live/O962bvTqlNM?si=RlXs7dDYqhIdbsJV)
 
+[Ribbon% spreadsheet notes](https://docs.google.com/spreadsheets/d/1fsuuVJeM8e_UvDDsg6sjpQn_JyUuaZFRa0yPGBSd5_U/edit?usp=sharing)
+
 # STT
 
 Offense Bat

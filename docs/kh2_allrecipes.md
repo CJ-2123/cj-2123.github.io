@@ -4,6 +4,8 @@ Menu notes are for Crit
 
 Vod of run: [KH2 All Recipes (Collect + Synth)](https://youtube.com/live/WXWL5udIlA0?feature=share)
 
+[KH2 All Recipes Spreadsheet](https://docs.google.com/spreadsheets/d/1RymJhKnndSSxM9-9MC9pW5Rvk087CxtnH4gmUpXdxFc/edit?usp=sharing)
+
 # STT
 
 Offense Bat

@@ -4,6 +4,8 @@ Menu notes for Crit
 
 Vod of run: [KH3 Utlima%](https://youtube.com/live/f-HEsC5wPbI?feature=share)
 
+[KH3 Synth Materials spreadsheet notes](https://docs.google.com/spreadsheets/d/1Q4GXi1PtNDRZDRI2F74ep-utfFaPNkzvPcrw6W5Sx-U/edit?usp=sharing)
+
 # Awakening
 
 Choose wisdom (kh1 mickey) and mystic (meow wow) and usual (left)
