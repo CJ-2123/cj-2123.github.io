@@ -1573,7 +1573,14 @@ Made for the Archipelago Randomizer. Simliar to the KH2 Grid Tracker goal list w
   { name: "Tidus" },
   { name: "Selphie" },
   { name: "Wakka" },
-  { name: "Destiny Islands 3v1" }
+  { name: "Destiny Islands 3v1" },
+  { name: "Pooh's Hunny Hunt" },
+  { name: "Block Tigger" },
+  { name: "Pooh's Swing" },
+  { name: "Tigger's Giant Pot" },
+  { name: "Pooh's Muddy Path" },
+  { name: "Phil's Training (Barrels)" },
+  { name: "Final Rest" }
 ];
 ```
 
