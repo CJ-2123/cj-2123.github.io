@@ -814,8 +814,16 @@ These goals are designed to be completable at any time during a seed with the ru
     "icon": "icons/kh2-generic/boss-summon.webp"
   },
   {
+    "name": "Defeat a boss with a mushroom weapon equipped on a party member",
+    "icon": "icons/kh2-generic/boss-mushroom.webp"
+  },
+  {
     "name": "Defeat a boss with an ultimate weapon equipped on a party member",
     "icon": "icons/kh2-generic/boss-ultimate.webp"
+  },
+  {
+    "name": "Defeat a boss with a belt and ring equipped",
+    "icon": "icons/kh2-generic/boss-accessories.webp"
   },
   {
     "name": "Defeat a boss with a reaction command",
@@ -1341,24 +1349,16 @@ These goals are designed to be completable at any time during a seed with the ru
     "icon": "icons/kh2-generic/items-2.webp"
   },
   {
-    "name": "Equip an Ultimate Weapon to a Main Party Member",
-    "icon": "icons/kh2-generic/ultimate-weapons.webp"
-  },
-  {
     "name": "Equip Donald and Goofy with their Nobody Weapons",
     "icon": "icons/kh2-generic/nobody-weapons.webp"
-  },
-  {
-    "name": "Equip 3 rings",
-    "icon": "icons/kh2-generic/ring-3.webp"
   },
   {
     "name": "Equip 2 earrings",
     "icon": "icons/kh2-generic/earring-2.webp"
   },
   {
-    "name": "Equip 3 armors with each having unique resistances",
-    "icon": "icons/kh2-generic/armor-3.webp"
+    "name": "Equip armor that gives +7 Defense",
+    "icon": "icons/kh2-generic/armor-plus-7.webp"
   },
   {
     "name": "Kill 15 types of heartless",
