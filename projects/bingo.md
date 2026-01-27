@@ -4,11 +4,11 @@ Bingo generator for various Kingdom Hearts games.
 
 [https://cj-2123.github.io/kh-bingo-generator/](https://cj-2123.github.io/kh-bingo-generator/)
 
-![KH1 bingo](/img/bingo-1.png)
+![KH1 bingo](../img/bingo-1.png)
 
 # Instructions
 
-![Generator UI](/img/bingo-2.png)
+![Generator UI](../img/bingo-2.png)
 
 **How to Play**
 
@@ -17,10 +17,12 @@ Bingo generator for various Kingdom Hearts games.
    2. "List Preview" will appear when a list is selected, showing how many objectives are in the list and whether or not it has icons
 2. Select a bingo mode and set applicable options
 3. (Optional) Enter a seed
-4. Click "Generate Game"
+4. Click "Generate Game" to generate a game board.
 5. A random seed will be generated if you didn't enter a seed, otherwise the seed you entered will be displayed as the current seed.
-   1. "Copy Game Link" will save the game, settings, and seed to your clipboard to share with others.
-6. Click "Start Game" to display the board
+   1. "Copy Board Link" will save the link to the board to your clipboard to save or share with others.
+   2. (The address bar in your browser is the same link as "Copy Board Link".)
+   3. "Copy Preset Link" will save the game, settings, and seed (if generated) to your clipboard to save or share with others.
+6. The board is initially hidden. Click to reveal it.
 
 **Controls:**
 
@@ -28,6 +30,11 @@ Bingo generator for various Kingdom Hearts games.
 - Scroll wheel up and down cycles through default, marked, and complete
 - (Rush Mode Only) Hotkeys: 1, 2, 3
 - Color dropdown selects your marking color. It will automatically update if changed mid-game.
+
+**Other**
+
+- The "Reset" button in the top left corner of the generator page will reset the page to default.
+- The "Back" button in the top left corner of the game board page will send you back to the generator page.
 
 For using your own list, see the "Custom Bingo Lists" section.
 
@@ -37,18 +44,26 @@ This board supports multiple Kingdom Hearts games with a variety of board types 
 
 ## Goal Lists
 
-- Kingdom Hearts 1 AP Randomizer
-  - tags: Atlantica, 100 Acre Wood, Hades Cup, Superboss
-- Kingdom Hearts 2 Generic
-- Kingdom Hearts 2 Worlds
-- Kingdom Hearts 2 Visits
-- Kingdom Hearts 2 Boss Hunter
+- Kingdom Hearts 1
+  - AP Randomizer
+    - tags: Atlantica, 100 Acre Wood, >50 Puppies, Hades Cup, Superboss
+- Kingdom Hearts 2
+  - Generic
+    - tags: Missable Goals
+  - Worlds
+  - Visits
+  - Boss Hunter
+- Kingdom Hearts 3
+  - Default
+    - tags: Secret Reports, >50 Lucky Emblems, Flans, Keyblades
+
+Full bingo lists: https://cj-2123.github.io/docs/bingo.html
 
 ## Bingo Board Types
 
 ### Rush
 
-![Rush Mode](/img/bingo-3.png)
+![Rush Mode](../img/rush-1.png)
 
 Complete 1 of 3 goals given to you. After completing a goal, 3 more goals appear.
 
@@ -60,44 +75,77 @@ Complete 1 of 3 goals given to you. After completing a goal, 3 more goals appear
 
 Based on Rush Bingo Mode by DotoPotato: [Lockout.Live](https://beta.lockout.live/)
 
+![Rush Mode](../img/bingo-3.png)
+
 ### Fog of War
+
+![Fog of War Mode](../img/fog-1.png)
 
 Select squares are revealed initially while the rest of the board is hidden. Complete a goal to reveal the squares to the top, bottom, left, and right.
 
 - Score keeps track of how many goals you've completed.
 
+![Fog of War Mode](../img/bingo-4.png)
+
 **Starting Squares Options:**
 
-- Classic-2 picks the top left and bottom right of the center square.
-- Classic-4 picks the top left, top right, bottom left, and bottom right of the center square.
-- Center picks the center square only.
-- Corners picks the 4 corners of the board.
-- Ascend picks the bottom row of the board.
-- River picks the left-most column of the board.
+<img src="../img/fog-options-1.png" alt="Classic-2" width="100" height="100" align="center">
 
-![Fog of War Mode](/img/bingo-4.png)
+**Classic-2** picks the top left and bottom right of the center square.
+
+<img src="../img/fog-options-2.png" alt="Classic-4" width="100" height="100" align="center">
+
+**Classic-4** picks the top left, top right, bottom left, and bottom right of the center square.
+
+<img src="../img/fog-options-3.png" alt="Center" width="100" height="100" align="center">
+
+**Center** picks the center square only.
+
+<img src="../img/fog-options-4.png" alt="Corners" width="100" height="100" align="center">
+
+**Corners** picks the 4 corners of the board.
+
+<img src="../img/fog-options-5.png" alt="Ascend" width="100" height="100" align="center">
+
+**Ascend** picks the bottom row of the board.
+
+<img src="../img/fog-options-6.png" alt="River" width="100" height="100" align="center">
+
+**River** picks the left-most column of the board.
+
+**Random** picks a random amount and starting position of squares.
+
+- Minimum: 2. Maximum: Board Size.
 
 ### Bingo
 
+![Classic Bingo Mode](../img/classic-1.png)
+
 Classic Bingo Mode. Given a board, complete a line to get a bingo.
 
-- Squares change color when they are part of a bingo line.
-- Score keeps track of how many bingo lines you've completed.
+- Bingo Logic enables Bingo Line Logic
+  - Squares change color when they are part of a bingo line.
+  - Score keeps track of how many bingo lines you've completed.
 
-![Classic Bingo Mode](/img/bingo-5.png)
+![Classic Bingo Mode](../img/bingo-5.png)
 
 ### Modifiers
 
 **Shiny Goals**
 
-- If enabled, will set random squares to "Shiny". You can set how many show up in the Shiny Count text box. If left blank, a default number of shiny goals will appear.
+![Shiny Mode](../img/shiny-1.png)
+
+- If enabled, will set random squares to "Shiny", putting a special border around goals.
+- Shiny Count sets how many shiny goals show up. If left blank, a default number of shiny goals will appear.
+  - Rush Mode Default = Math.floor(number of rounds / 4)
+  - Fog of War and Classic Bingo Default = board size - 2
 - Based on Shiny Goals by DotoPotato: [Lockout.Live](https://beta.lockout.live/)
 
-![Fog of War, Classic-4, Shiny Goals](/img/bingo-6.png)
+![Fog of War, Classic-4, Shiny Goals](../img/bingo-6.png)
 
 # Custom Bingo Lists
 
-![Custom](/img/bingo-7.png)
+![Custom](../img/bingo-7.png)
 
 **How to use custom bingo lists:**
 
@@ -148,11 +196,11 @@ The list must have a "name" property for each objective. "icon" is optional. Cus
 [
   {
     "name": "Objective 1",
-    "icon": "icons/kh1-ap/Clayton.png"
+    "icon": "icons/kh1-ap/Clayton.webp"
   },
   {
     "name": "Objective 2",
-    "icon": "icons/kh2-bunter/ShanYu.png"
+    "icon": "icons/kh2-bunter/ShanYu.webp"
   }
   // more goals here
 ]
