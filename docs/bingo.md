@@ -5,11 +5,12 @@
 - [KH1](#kh1)
   - [AP Randomizer](#kh1aprando)
   - [Generic](#kh1generic)
+  - [Achievements](#kh1trophies)
 - [KH2](#kh2)
   - [Generic](#kh2generic)
   - [Worlds](#kh2worlds)
-  - [Visits](#kh2visits)
   - [Boss Hunter](#bosses)
+  - [Achievements](#kh2trophies)
 - [KH3](#kh3)
   - [Default](#kh3default)
 - [Zelda: OOT](#oot)
@@ -1389,6 +1390,255 @@ These goals are designed to be completable at any time during a seed with the ru
 ]
 ```
 
+<!-- TOC --><a name="kh1trophies"></a>
+
+### Achievements
+
+All of the achievements in the PC version of Kingdom Hearts 1.5+2.5 Remix for Kingdom Hearts 1. The "Clear Game" tag includes achievements that require you to beat the game. The "Challenges" tag includes achievements that require you to beat the game with certain restrictions. **Tags:** Clear Game, Challenges, Gummi
+
+```
+[
+  {
+    "name": "Obtain all trophies",
+    "icon": "icons/kh1-trophies/kh-master.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Clear Final Mix on Proud",
+    "icon": "icons/kh1-trophies/proud-player.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Clear game on Final Mix or a higher difficulty level",
+    "icon": "icons/kh1-trophies/final-mix-master.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Clear game on Final Mix: Beginner or a higher difficulty level",
+    "icon": "icons/kh1-trophies/novice-player.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Clear the game without changing equpiment",
+    "icon": "icons/kh1-trophies/unchanging-armor.webp",
+    "tags": ["Challenges"]
+  },
+  {
+    "name": "Clear the game without using a continue",
+    "icon": "icons/kh1-trophies/undefeated.webp",
+    "tags": ["Challenges"]
+  },
+  {
+    "name": "Defeat the World of Chaos in the End of the World within 15 hours",
+    "icon": "icons/kh1-trophies/speedster.webp",
+    "tags": ["Challenges"]
+  },
+  {
+    "name": "Defeat the Mysterious Man in Hollow Bastion",
+    "icon": "icons/kh1-trophies/he-who-doesnt-exist.webp"
+  },
+  {
+    "name": "Defeat the Phantom at the Clock Tower",
+    "icon": "icons/kh1-trophies/the-cloaked-shadow.webp"
+  },
+  {
+    "name": "Defeat Kurt Zisa in Agrabah",
+    "icon": "icons/kh1-trophies/the-sandy-blade.webp"
+  },
+  {
+    "name": "Win the Phil Cup",
+    "icon": "icons/kh1-trophies/novice-hero.webp"
+  },
+  {
+    "name": "Win the Pegasus Cup",
+    "icon": "icons/kh1-trophies/artisan-hero.webp"
+  },
+  {
+    "name": "Win the Hercules Cup",
+    "icon": "icons/kh1-trophies/hero-of-the-coliseum.webp"
+  },
+  {
+    "name": "Win the Hades Cup",
+    "icon": "icons/kh1-trophies/coliseum-champion.webp"
+  },
+  {
+    "name": "Defeat the Ice Titan in the Gold Match at Olympus Coliseum",
+    "icon": "icons/kh1-trophies/the-frosty-giant.webp"
+  },
+  {
+    "name": "Defeat Sephiroth in the Platinum Match at Olympus Coliseum",
+    "icon": "icons/kh1-trophies/one-winged-angel.webp"
+  },
+  {
+    "name": "Complete any solo challenge",
+    "icon": "icons/kh1-trophies/supreme-soloist.webp"
+  },
+  {
+    "name": "Complete any time trial challenge",
+    "icon": "icons/kh1-trophies/time-attacker.webp"
+  },
+  {
+    "name": "Get Sora to Level 100",
+    "icon": "icons/kh1-trophies/level-master.webp"
+  },
+  {
+    "name": "Open 100 Treasure Chests",
+    "icon": "icons/kh1-trophies/treasure-hunter.webp"
+  },
+  {
+    "name": "Hold over 10 thousand munny",
+    "icon": "icons/kh1-trophies/from-rags-to-riches.webp"
+  },
+  {
+    "name": "Defeat over 2,000 Heartless",
+    "icon": "icons/kh1-trophies/heartless-hunter.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Traverse Town",
+    "icon": "icons/kh1-trophies/where-the-bells-toll.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Wonderland",
+    "icon": "icons/kh1-trophies/the-rabbit-hole.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Olympus Coliseum",
+    "icon": "icons/kh1-trophies/junior-hero.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Deep Jungle",
+    "icon": "icons/kh1-trophies/member-of-the-tribe.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Agrabah",
+    "icon": "icons/kh1-trophies/magic-lamp.webp"
+  },
+  {
+    "name": "Escape from Monstro",
+    "icon": "icons/kh1-trophies/honest-soul.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Atlantica",
+    "icon": "icons/kh1-trophies/master-of-the-seas.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Halloween Town",
+    "icon": "icons/kh1-trophies/pumpkin-prince.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Never Land",
+    "icon": "icons/kh1-trophies/pixie-dust.webp"
+  },
+  {
+    "name": "Seal the Keyhole in Hollow Bastion",
+    "icon": "icons/kh1-trophies/end-of-the-world.webp"
+  },
+  {
+    "name": "Seal the Keyhole in 100 Acre Wood",
+    "icon": "icons/kh1-trophies/poohs-friend.webp"
+  },
+  {
+    "name": "Collect all Jiminy's Journal entries",
+    "icon": "icons/kh1-trophies/record-keeper.webp"
+  },
+  {
+    "name": "Collect all Story entries in Jiminy's Journal",
+    "icon": "icons/kh1-trophies/storyteller.webp"
+  },
+  {
+    "name": "Collect all Ansem Reports entries in Jiminy's Journal",
+    "icon": "icons/kh1-trophies/searcher.webp"
+  },
+  {
+    "name": "Collect all Character entries in Jiminy's Journal",
+    "icon": "icons/kh1-trophies/professor.webp"
+  },
+  {
+    "name": "Collect all 101 Dalmatian entries in Jiminy's Journal",
+    "icon": "icons/kh1-trophies/top-dog.webp"
+  },
+  {
+    "name": "Collect all Trinity List entries in Jiminy's Journal",
+    "icon": "icons/kh1-trophies/best-friend.webp"
+  },
+  {
+    "name": "Collect all Mini-game entries in Jiminy's Journal",
+    "icon": "icons/kh1-trophies/minigame-maniac.webp"
+  },
+  {
+    "name": "Synthesize all items",
+    "icon": "icons/kh1-trophies/synthesis-master.webp"
+  },
+  {
+    "name": "Synthesize an item for the first time",
+    "icon": "icons/kh1-trophies/first-synthesis.webp"
+  },
+  {
+    "name": "Synthesize 3 types of items",
+    "icon": "icons/kh1-trophies/synthesis-novice.webp"
+  },
+  {
+    "name": "Synthesize 15 types of items",
+    "icon": "icons/kh1-trophies/synthesis-amateur.webp"
+  },
+  {
+    "name": "Synthesize 30 types of items",
+    "icon": "icons/kh1-trophies/synthesis-vet.webp"
+  },
+  {
+    "name": "Obtain 30 or more gummi ship blueprints",
+    "icon": "icons/kh1-trophies/gummi-ship-collector.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Shoot down over 2,500 enemies with your gummi ship",
+    "icon": "icons/kh1-trophies/flying-ace.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Modify a gummi ship and update the data",
+    "icon": "icons/kh1-trophies/customizer.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Clear all gummi ship routes",
+    "icon": "icons/kh1-trophies/top-gun.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Clear gummi ship mission 1",
+    "icon": "icons/kh1-trophies/test-pilot.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Clear gummi ship mission 2",
+    "icon": "icons/kh1-trophies/veteran-pilot.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Clear gummi ship mission 3",
+    "icon": "icons/kh1-trophies/ace-pilot.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Obtain the Oathkeeper Keyblade",
+    "icon": "icons/kh1-trophies/oathkeeper.webp"
+  },
+  {
+    "name": "Obtain all Keyblades",
+    "icon": "icons/kh1-trophies/blade-master.webp"
+  },
+  {
+    "name": "Obtain all staves",
+    "icon": "icons/kh1-trophies/master-magician.webp"
+  },
+  {
+    "name": "Obtain all shields",
+    "icon": "icons/kh1-trophies/master-defender.webp"
+  }
+]
+```
+
 <!-- TOC --><a name="kh2"></a>
 
 ## KH2
@@ -2127,206 +2377,141 @@ These goals are designed to be completable at any time during a seed with the ru
 
 ### Worlds
 
-A list of worlds in Kingdom Hearts 2, excluding Hundred Acre Wood and Atlantica.
+A list of worlds in Kingdom Hearts 2, excluding Hundred Acre Wood and Atlantica. The visits tag has enough of each world to represent their visits. For example, there are 3 Twilight Towns, 2 Halloween Towns, and 1 The World That Never Was. Disney Castle includes Timeless River. Atlantica and Hundred Acre Wood are excluded. **Tags:** Visits
 
 ```
 [
-    {
-        "id": "ag",
-        "name": "Agrabah",
-        "icon": "icons/kh2-worlds/agrabah.webp"
-    },
-    {
-        "id": "bc",
-        "name": "Beast's Castle",
-        "icon": "icons/kh2-worlds/beast's_castle.webp"
-    },
-    {
-        "id": "dc",
-        "name": "Disney Castle",
-        "icon": "icons/kh2-worlds/disney_castle.webp"
-    },
-    {
-        "id": "ht",
-        "name": "Halloween Town",
-        "icon": "icons/kh2-worlds/halloween_town.webp"
-    },
-    {
-        "id": "hb",
-        "name": "Hollow Bastion",
-        "icon": "icons/kh2-worlds/hollow_bastion.webp"
-    },
-    {
-        "id": "lod",
-        "name": "Land of Dragons",
-        "icon": "icons/kh2-worlds/land_of_dragons.webp"
-    },
-    {
-        "id": "oc",
-        "name": "Olympus Coliseum",
-        "icon": "icons/kh2-worlds/olympus_coliseum.webp"
-    },
-    {
-        "id": "pr",
-        "name": "Port Royal",
-        "icon": "icons/kh2-worlds/port_royal.webp"
-    },
-    {
-        "id": "pl",
-        "name": "Pride Lands",
-        "icon": "icons/kh2-worlds/pride_land.webp"
-    },
-    {
-        "id": "stt",
-        "name": "Simulated Twilight Town",
-        "icon": "icons/kh2-worlds/simulated_twilight_town.webp"
-    },
-    {
-        "id": "sp",
-        "name": "Space Paranoids",
-        "icon": "icons/kh2-worlds/space_paranoids.webp"
-    },
-    {
-        "id": "twtnw",
-        "name": "The World That Never Was",
-        "icon": "icons/kh2-worlds/the_world_that_never_was.webp"
-    },
-    {
-        "id": "tt",
-        "name": "Twilight Town",
-        "icon": "icons/kh2-worlds/twilight_town.webp"
-    }
-]
-```
-
-<!-- TOC --><a name="kh2visits"></a>
-
-### Visits
-
-The list has enough of each world to represent their visits. For example, there are 3 Twilight Towns, 2 Halloween Towns, and 1 The World That Never Was. Disney Castle includes Timeless River. Atlantica and Hundred Acre Wood are excluded.
-
-```
-[
-    {
-        "id": "ag1",
-        "name": "Agrabah",
-        "icon": "icons/kh2-worlds/agrabah.webp"
-    },
-    {
-        "id": "ag2",
-        "name": "Agrabah",
-        "icon": "icons/kh2-worlds/agrabah.webp"
-    },
-    {
-        "id": "bc1",
-        "name": "Beast's Castle",
-        "icon": "icons/kh2-worlds/beast's_castle.webp"
-    },
-    {
-        "id": "bc2",
-        "name": "Beast's Castle",
-        "icon": "icons/kh2-worlds/beast's_castle.webp"
-    },
-    {
-        "id": "dc",
-        "name": "Disney Castle",
-        "icon": "icons/kh2-worlds/disney_castle.webp"
-    },
-    {
-        "id": "ht1",
-        "name": "Halloween Town",
-        "icon": "icons/kh2-worlds/halloween_town.webp"
-    },
-    {
-        "id": "ht2",
-        "name": "Halloween Town",
-        "icon": "icons/kh2-worlds/halloween_town.webp"
-    },
-    {
-        "id": "hb1",
-        "name": "Hollow Bastion",
-        "icon": "icons/kh2-worlds/hollow_bastion.webp"
-    },
-    {
-        "id": "hb1",
-        "name": "Hollow Bastion",
-        "icon": "icons/kh2-worlds/hollow_bastion.webp"
-    },
-    {
-        "id": "lod1",
-        "name": "Land of Dragons",
-        "icon": "icons/kh2-worlds/land_of_dragons.webp"
-    },
-    {
-        "id": "lod2",
-        "name": "Land of Dragons",
-        "icon": "icons/kh2-worlds/land_of_dragons.webp"
-    },
-    {
-        "id": "oc1",
-        "name": "Olympus Coliseum",
-        "icon": "icons/kh2-worlds/olympus_coliseum.webp"
-    },
-    {
-        "id": "oc2",
-        "name": "Olympus Coliseum",
-        "icon": "icons/kh2-worlds/olympus_coliseum.webp"
-    },
-    {
-        "id": "pr1",
-        "name": "Port Royal",
-        "icon": "icons/kh2-worlds/port_royal.webp"
-    },
-    {
-        "id": "pr2",
-        "name": "Port Royal",
-        "icon": "icons/kh2-worlds/port_royal.webp"
-    },
-    {
-        "id": "pl1",
-        "name": "Pride Lands",
-        "icon": "icons/kh2-worlds/pride_land.webp"
-    },
-    {
-        "id": "pl2",
-        "name": "Pride Lands",
-        "icon": "icons/kh2-worlds/pride_land.webp"
-    },
-    {
-        "id": "stt",
-        "name": "Simulated Twilight Town",
-        "icon": "icons/kh2-worlds/simulated_twilight_town.webp"
-    },
-    {
-        "id": "sp1",
-        "name": "Space Paranoids",
-        "icon": "icons/kh2-worlds/space_paranoids.webp"
-    },
-    {
-        "id": "sp2",
-        "name": "Space Paranoids",
-        "icon": "icons/kh2-worlds/space_paranoids.webp"
-    },
-    {
-        "id": "twtnw",
-        "name": "The World That Never Was",
-        "icon": "icons/kh2-worlds/the_world_that_never_was.webp"
-    },
-    {
-        "id": "tt1",
-        "name": "Twilight Town",
-        "icon": "icons/kh2-worlds/twilight_town.webp"
-    },
-    {
-        "id": "tt2",
-        "name": "Twilight Town",
-        "icon": "icons/kh2-worlds/twilight_town.webp"
-    },
-    {
-        "id": "tt3",
-        "name": "Twilight Town",
-        "icon": "icons/kh2-worlds/twilight_town.webp"
-    }
+  {
+    "id": "ag1",
+    "name": "Agrabah",
+    "icon": "icons/kh2-worlds/agrabah.webp"
+  },
+  {
+    "id": "ag2",
+    "name": "Agrabah",
+    "icon": "icons/kh2-worlds/agrabah.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "bc1",
+    "name": "Beast's Castle",
+    "icon": "icons/kh2-worlds/beast's_castle.webp"
+  },
+  {
+    "id": "bc2",
+    "name": "Beast's Castle",
+    "icon": "icons/kh2-worlds/beast's_castle.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "dc",
+    "name": "Disney Castle",
+    "icon": "icons/kh2-worlds/disney_castle.webp"
+  },
+  {
+    "id": "ht1",
+    "name": "Halloween Town",
+    "icon": "icons/kh2-worlds/halloween_town.webp"
+  },
+  {
+    "id": "ht2",
+    "name": "Halloween Town",
+    "icon": "icons/kh2-worlds/halloween_town.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "hb1",
+    "name": "Hollow Bastion",
+    "icon": "icons/kh2-worlds/hollow_bastion.webp"
+  },
+  {
+    "id": "hb1",
+    "name": "Hollow Bastion",
+    "icon": "icons/kh2-worlds/hollow_bastion.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "lod1",
+    "name": "Land of Dragons",
+    "icon": "icons/kh2-worlds/land_of_dragons.webp"
+  },
+  {
+    "id": "lod2",
+    "name": "Land of Dragons",
+    "icon": "icons/kh2-worlds/land_of_dragons.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "oc1",
+    "name": "Olympus Coliseum",
+    "icon": "icons/kh2-worlds/olympus_coliseum.webp"
+  },
+  {
+    "id": "oc2",
+    "name": "Olympus Coliseum",
+    "icon": "icons/kh2-worlds/olympus_coliseum.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "pr1",
+    "name": "Port Royal",
+    "icon": "icons/kh2-worlds/port_royal.webp"
+  },
+  {
+    "id": "pr2",
+    "name": "Port Royal",
+    "icon": "icons/kh2-worlds/port_royal.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "pl1",
+    "name": "Pride Lands",
+    "icon": "icons/kh2-worlds/pride_land.webp"
+  },
+  {
+    "id": "pl2",
+    "name": "Pride Lands",
+    "icon": "icons/kh2-worlds/pride_land.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "stt",
+    "name": "Simulated Twilight Town",
+    "icon": "icons/kh2-worlds/simulated_twilight_town.webp"
+  },
+  {
+    "id": "sp1",
+    "name": "Space Paranoids",
+    "icon": "icons/kh2-worlds/space_paranoids.webp"
+  },
+  {
+    "id": "sp2",
+    "name": "Space Paranoids",
+    "icon": "icons/kh2-worlds/space_paranoids.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "twtnw",
+    "name": "The World That Never Was",
+    "icon": "icons/kh2-worlds/the_world_that_never_was.webp"
+  },
+  {
+    "id": "tt1",
+    "name": "Twilight Town",
+    "icon": "icons/kh2-worlds/twilight_town.webp"
+  },
+  {
+    "id": "tt2",
+    "name": "Twilight Town",
+    "icon": "icons/kh2-worlds/twilight_town.webp",
+    "tags": ["Visits"]
+  },
+  {
+    "id": "tt3",
+    "name": "Twilight Town",
+    "icon": "icons/kh2-worlds/twilight_town.webp",
+    "tags": ["Visits"]
+  }
 ]
 ```
 
@@ -2395,6 +2580,229 @@ List of KH2 Bosses for Boss Hunter. Organization XIII members are not split by A
   { name: "Vexen" },
   { name: "Zexion" },
 ];
+```
+
+<!-- TOC --><a name="kh2trophies"></a>
+
+### Achievements
+
+All of the achievements in the PC version of Kingdom Hearts 1.5+2.5 Remix for Kingdom Hearts 2. The "Clear Game" tag includes achievements that require you to beat the game. **Tags:** Clear Game, Gummi
+
+```
+[
+  {
+    "name": "Obtain all trophies",
+    "icon": "icons/kh2-trophies/kh2-master.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Clear game on Critical",
+    "icon": "icons/kh2-trophies/critical-competitor.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Clear game on Proud Mode or a higher difficulty",
+    "icon": "icons/kh2-trophies/proud-player.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Clear the game and watch the ending sequence",
+    "icon": "icons/kh2-trophies/ambitious-adventurer.webp",
+    "tags": ["Clear Game"]
+  },
+  {
+    "name": "Get Sora to Level 99",
+    "icon": "icons/kh2-trophies/level-master.webp"
+  },
+  {
+    "name": "Get rescued by the King",
+    "icon": "icons/kh2-trophies/my-hero.webp"
+  },
+  {
+    "name": "Defeat the Lingering Will",
+    "icon": "icons/kh2-trophies/lingering-will.webp"
+  },
+  {
+    "name": "Defeat Sephiroth",
+    "icon": "icons/kh2-trophies/one-winged-angel.webp"
+  },
+  {
+    "name": "Defeat all Organization XIII Replica Data",
+    "icon": "icons/kh2-trophies/to-rule-them-all.webp"
+  },
+  {
+    "name": "Satisfy every member of Mushroom XIII",
+    "icon": "icons/kh2-trophies/mushroom-master.webp"
+  },
+  {
+    "name": "Win the Pain and Panic Cup",
+    "icon": "icons/kh2-trophies/rookie.webp"
+  },
+  {
+    "name": "Win the Cerberus Cup",
+    "icon": "icons/kh2-trophies/novice-hero.webp"
+  },
+  {
+    "name": "Win the Titan Cup",
+    "icon": "icons/kh2-trophies/artisan-hero.webp"
+  },
+  {
+    "name": "Win the Goddess of Fate Cup",
+    "icon": "icons/kh2-trophies/true-hero.webp"
+  },
+  {
+    "name": "Win the Pain and Panic Paradox Cup",
+    "icon": "icons/kh2-trophies/coliseum-competitor.webp"
+  },
+  {
+    "name": "Win the Cerberus Paradox Cup",
+    "icon": "icons/kh2-trophies/coliseum-star.webp"
+  },
+  {
+    "name": "Win the Titan Paradox Cup",
+    "icon": "icons/kh2-trophies/hero-of-the-coliseum.webp"
+  },
+  {
+    "name": "Win the Hades Paradox Cup",
+    "icon": "icons/kh2-trophies/coliseum-champion.webp"
+  },
+  {
+    "name": "Complete Roxas's episode",
+    "icon": "icons/kh2-trophies/summers-end.webp"
+  },
+  {
+    "name": "Complete the Timeless River episode",
+    "icon": "icons/kh2-trophies/a-timeless-world.webp"
+  },
+  {
+    "name": "Complete the Land of Dragons episodes",
+    "icon": "icons/kh2-trophies/above-honor.webp"
+  },
+  {
+    "name": "Complete the Beast's Castle episodes",
+    "icon": "icons/kh2-trophies/a-budding-romance.webp"
+  },
+  {
+    "name": "Complete the Olympus Coliseum episodes",
+    "icon": "icons/kh2-trophies/hail-the-hero.webp"
+  },
+  {
+    "name": "Complete the Port Royal episodes",
+    "icon": "icons/kh2-trophies/lifting-the-curse.webp"
+  },
+  {
+    "name": "Complete the Agrabah episodes",
+    "icon": "icons/kh2-trophies/what-friends-are-for.webp"
+  },
+  {
+    "name": "Complete the Halloween Town episodes",
+    "icon": "icons/kh2-trophies/the-gift-of-love.webp"
+  },
+  {
+    "name": "Complete the Pride Lands episodes",
+    "icon": "icons/kh2-trophies/return-of-the-king.webp"
+  },
+  {
+    "name": "Complete the Space Paranoids episodes",
+    "icon": "icons/kh2-trophies/electric-spark.webp"
+  },
+  {
+    "name": "Complete the 100 Acre Wood episode",
+    "icon": "icons/kh2-trophies/always-together.webp"
+  },
+  {
+    "name": "Complete the Atlantica episodes",
+    "icon": "icons/kh2-trophies/kindred-spirits.webp"
+  },
+  {
+    "name": "Complete the Twilight Town episodes",
+    "icon": "icons/kh2-trophies/a-taste-of-the-past.webp"
+  },
+  {
+    "name": "Reunite with Riku and Kairi",
+    "icon": "icons/kh2-trophies/reunion.webp"
+  },
+  {
+    "name": "Collect all Ansem Reports in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/searcher.webp"
+  },
+  {
+    "name": "Collect all Character entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/professor.webp"
+  },
+  {
+    "name": "Complete all Heartless entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/heartless-highbrow.webp"
+  },
+  {
+    "name": "Complete all Nobody entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/nobody-know-it-all.webp"
+  },
+  {
+    "name": "Collect all Treasures in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/treasure-hunter.webp"
+  },
+  {
+    "name": "Collect all Puzzles in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/puzzler.webp"
+  },
+  {
+    "name": "Collect all Maps in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/navigator.webp"
+  },
+  {
+    "name": "Collect all Mission entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/conqueror.webp"
+  },
+  {
+    "name": "Collect all Minigame entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/minigame-maniac.webp"
+  },
+  {
+    "name": "Collect all Limit entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/limit-master.webp"
+  },
+  {
+    "name": "Collect all Synthesis Note entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/craftsman.webp"
+  },
+  {
+    "name": "Collect all Character Link entries in Jiminy's Journal",
+    "icon": "icons/kh2-trophies/seeker.webp"
+  },
+  {
+    "name": "Obtain 5,000 points with skateboard tricks",
+    "icon": "icons/kh2-trophies/pro-skater.webp"
+  },
+  {
+    "name": "Win by obtaining all of the opponent's orbs",
+    "icon": "icons/kh2-trophies/struggle-champion.webp"
+  },
+  {
+    "name": "Activate Antiform 13 times",
+    "icon": "icons/kh2-trophies/corroded-by-darkness.webp"
+  },
+  {
+    "name": "Obtain an S Rank on a gummi ship mission",
+    "icon": "icons/kh2-trophies/veteran-pilot.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Obtain an S Rank on a gummi ship mission for all routes",
+    "icon": "icons/kh2-trophies/ace-pilot.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Obtain an S Rank on a gummi ship EX mission for all routes",
+    "icon": "icons/kh2-trophies/top-gun.webp",
+    "tags": ["Gummi"]
+  },
+  {
+    "name": "Obtain all blueprints",
+    "icon": "icons/kh2-trophies/gummi-ship-collector.webp",
+    "tags": ["Gummi"]
+  }
+]
 ```
 
 <!-- TOC --><a name="kh3"></a>
@@ -2977,7 +3385,7 @@ Similar to the KH2 Grid Tracker goal list with bosses, progression, and importan
 ### Default
 
 Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.io/bingo/bingo.html) made by the OOT speedrunning community.
-**Tags:** Skulltulas
+**Tags:** Skulltulas, Max Upgrades
 
 ```
 [
@@ -3433,20 +3841,43 @@ Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.
     "tags": ["Skulltulas"]
   },
   {
+    "name": "Exactly 10 Deku Sticks",
+    "icon": "icons/oot/deku-sticks-10.webp"
+  },
+  {
     "name": "Exactly 20 Deku Sticks",
     "icon": "icons/oot/deku-sticks-20.webp"
   },
   {
     "name": "Exactly 30 Deku Sticks",
-    "icon": "icons/oot/deku-sticks-30.webp"
+    "icon": "icons/oot/deku-sticks-30.webp",
+    "tags": ["Max Upgrades"]
+  },
+  {
+    "name": "10 Deku Nuts",
+    "icon": "icons/oot/deku-nuts-10.webp"
+  },
+  {
+    "name": "20 Deku Nuts",
+    "icon": "icons/oot/deku-nuts-20.webp"
   },
   {
     "name": "30 Deku Nuts",
-    "icon": "icons/oot/deku-nuts-30.webp"
+    "icon": "icons/oot/deku-nuts-30.webp",
+    "tags": ["Max Upgrades"]
+  },
+  {
+    "name": "Bomb Bag (20)",
+    "icon": "icons/oot/bomb-bag-20.webp"
   },
   {
     "name": "Bomb Bag (30)",
     "icon": "icons/oot/bomb-bag-30.webp"
+  },
+  {
+    "name": "Bomb Bag (40)",
+    "icon": "icons/oot/bomb-bag-40.webp",
+    "tags": ["Max Upgrades"]
   },
   {
     "name": "Bullet Bag (40)",
@@ -3454,7 +3885,8 @@ Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.
   },
   {
     "name": "Bullet Bag (50)",
-    "icon": "icons/oot/bullet-bag-50.webp"
+    "icon": "icons/oot/bullet-bag-50.webp",
+    "tags": ["Max Upgrades"]
   },
   {
     "name": "Quiver (40)",
@@ -3462,7 +3894,8 @@ Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.
   },
   {
     "name": "Quiver (50)",
-    "icon": "icons/oot/quiver-50.webp"
+    "icon": "icons/oot/quiver-50.webp",
+    "tags": ["Max Upgrades"]
   },
   {
     "name": "Fairy Slingshot",
@@ -3526,7 +3959,8 @@ Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.
   },
   {
     "name": "Golden Gauntlets",
-    "icon": "icons/oot/golden-gauntlets.webp"
+    "icon": "icons/oot/golden-gauntlets.webp",
+    "tags": ["Max Upgrades"]
   },
   {
     "name": "Silver Scale",
@@ -3534,7 +3968,8 @@ Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.
   },
   {
     "name": "Golden Scale",
-    "icon": "icons/oot/golden-scale.webp"
+    "icon": "icons/oot/golden-scale.webp",
+    "tags": ["Max Upgrades"]
   },
   {
     "name": "Magic Bar",
@@ -3542,7 +3977,8 @@ Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.
   },
   {
     "name": "Double Magic",
-    "icon": "icons/oot/magic-2.webp"
+    "icon": "icons/oot/magic-2.webp",
+    "tags": ["Max Upgrades"]
   },
   {
     "name": "Fairy Ocarina",
@@ -3557,8 +3993,16 @@ Based on the original [Ocarina of Time Bingo Generator](https://ootbingo.github.
     "icon": "icons/oot/skull-mask.webp"
   },
   {
+    "name": "Gerudo Card",
+    "icon": "icons/oot/gerudo-card.webp"
+  },
+  {
     "name": "99 Rupees",
     "icon": "icons/oot/rupee-99.webp"
+  },
+  {
+    "name": "200 Rupees",
+    "icon": "icons/oot/rupee-200.webp"
   },
   {
     "name": "Win Bombchu Bowling Prize",
