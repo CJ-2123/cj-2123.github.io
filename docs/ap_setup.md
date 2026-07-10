@@ -60,8 +60,9 @@ Follow setup for individual games first.
 2. Open KH1 and KH2 Clients
 3. Connect to server hosted on archipelago.gg
    1. The server/port number can be found in the room page
-   2. KH2 needs to be open and on title screen to connect
-4. Enter the slot name associated with your slot
+   2. KH1 needs to be connected by pressing F4 and entering the host, archipelago.gg:XXXXX, and slot name
+   3. KH2 needs to be open and on title screen to connect
+4. Enter the slot name associated with your game into the clients
 5. Play!
 
 ## Helpful stuff
