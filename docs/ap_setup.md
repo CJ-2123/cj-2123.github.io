@@ -56,8 +56,8 @@ Follow setup for individual games first.
 
 #### Launching
 
-1. Open ArchipelagoLauncher.exe
-2. Open KH1 and KH2 Clients
+1. Start KH1 and press F4 to open the KH1 Client
+2. Open ArchipelagoLauncher.exe and open the KH2 Client
 3. Connect to server hosted on archipelago.gg
    1. The server/port number can be found in the room page
    2. KH1 needs to be connected by pressing F4 and entering the host, archipelago.gg:XXXXX, and slot name
