@@ -12,6 +12,8 @@ My most commonly used KH mods using [OpenKH](https://github.com/OpenKH/OpenKh/re
 ### Audio
 
 - SpaceBoiStreams/KH1-Sonic-Music-Pack
+- CJ-2123/CJ-KH1-Persona-Music-Pack
+- [Bring Back The Owl Sound Effect](https://www.nexusmods.com/kingdomheartsfinalmix/mods/189)
 
 ## KH2
 
