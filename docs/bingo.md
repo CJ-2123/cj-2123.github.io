@@ -72,7 +72,7 @@ Made for the Archipelago Randomizer. Simliar to the KH2 Grid Tracker goal list w
     "icon": "icons/kh1-ap/TigerHead.webp"
   },
   {
-    "name": "Jafar",
+    "name": "Genie Jafar",
     "icon": "icons/kh1-ap/Jafar.webp"
   },
   {
@@ -682,24 +682,24 @@ Made for the Archipelago Randomizer. Simliar to the KH2 Grid Tracker goal list w
     "icon": "icons/kh1-ap/Red4.webp"
   },
   {
-    "name": "5 Red Trinities",
-    "icon": "icons/kh1-ap/Red5.webp"
-  },
-  {
     "name": "2 Green Trinities",
     "icon": "icons/kh1-ap/Green2.webp"
+  },
+  {
+    "name": "3 Green Trinities",
+    "icon": "icons/kh1-ap/Green3.webp"
   },
   {
     "name": "4 Green Trinities",
     "icon": "icons/kh1-ap/Green4.webp"
   },
   {
-    "name": "6 Green Trinities",
-    "icon": "icons/kh1-ap/Green6.webp"
+    "name": "5 Green Trinities",
+    "icon": "icons/kh1-ap/Green5.webp"
   },
   {
-    "name": "8 Green Trinities",
-    "icon": "icons/kh1-ap/Green8.webp"
+    "name": "6 Green Trinities",
+    "icon": "icons/kh1-ap/Green6.webp"
   },
   {
     "name": "1 Yellow Trinity",
